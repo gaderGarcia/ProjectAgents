@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<javaAgentsConfig verbose="no">
+  <agents>
+    <agent name="agentA1" entity="connectionA1" class="mas.agentsHempelsSofa2013.StrategyBasedExplorerAgent" team="A"/>
+    <agent name="agentA2" entity="connectionA2" class="mas.agentsHempelsSofa2013.StrategyBasedExplorerAgent" team="A"/>
+    <agent name="agentA3" entity="connectionA3" class="mas.agentsHempelsSofa2013.StrategyBasedExplorerAgent" team="A"/>
+    <agent name="agentA4" entity="connectionA4" class="mas.agentsHempelsSofa2013.StrategyBasedExplorerAgent" team="A"/>
+    <agent name="agentA5" entity="connectionA5" class="mas.agentsHempelsSofa2013.StrategyBasedExplorerAgent" team="A"/>
+    <agent name="agentA6" entity="connectionA6" class="mas.agentsHempelsSofa2013.StrategyBasedExplorerAgent" team="A"/>
+    <agent name="agentA7" entity="connectionA7" class="mas.agentsHempelsSofa2013.StrategyBasedRepairerAgent" team="A"/>
+    <agent name="agentA8" entity="connectionA8" class="mas.agentsHempelsSofa2013.StrategyBasedRepairerAgent" team="A"/>
+    <agent name="agentA9" entity="connectionA9" class="mas.agentsHempelsSofa2013.StrategyBasedRepairerAgent" team="A"/>
+    <agent name="agentA10" entity="connectionA10" class="mas.agentsHempelsSofa2013.StrategyBasedRepairerAgent" team="A"/>
+    <agent name="agentA11" entity="connectionA11" class="mas.agentsHempelsSofa2013.StrategyBasedRepairerAgent" team="A"/>
+    <agent name="agentA12" entity="connectionA12" class="mas.agentsHempelsSofa2013.StrategyBasedRepairerAgent" team="A"/>
+    <agent name="agentA13" entity="connectionA13" class="mas.agentsHempelsSofa2013.StrategyBasedSaboteurAgent" team="A"/>
+    <agent name="agentA14" entity="connectionA14" class="mas.agentsHempelsSofa2013.StrategyBasedSaboteurAgent" team="A"/>
+    <agent name="agentA15" entity="connectionA15" class="mas.agentsHempelsSofa2013.StrategyBasedSaboteurAgent" team="A"/>
+    <agent name="agentA16" entity="connectionA16" class="mas.agentsHempelsSofa2013.StrategyBasedSaboteurAgent" team="A"/>
+    <agent name="agentA17" entity="connectionA17" class="mas.agentsHempelsSofa2013.StrategyBasedSentinelAgent" team="A"/>
+    <agent name="agentA18" entity="connectionA18" class="mas.agentsHempelsSofa2013.StrategyBasedSentinelAgent" team="A"/>
+    <agent name="agentA19" entity="connectionA19" class="mas.agentsHempelsSofa2013.StrategyBasedSentinelAgent" team="A"/>
+    <agent name="agentA20" entity="connectionA20" class="mas.agentsHempelsSofa2013.StrategyBasedSentinelAgent" team="A"/>
+    <agent name="agentA21" entity="connectionA21" class="mas.agentsHempelsSofa2013.StrategyBasedSentinelAgent" team="A"/>
+    <agent name="agentA22" entity="connectionA22" class="mas.agentsHempelsSofa2013.StrategyBasedSentinelAgent" team="A"/>
+    <agent name="agentA23" entity="connectionA23" class="mas.agentsHempelsSofa2013.StrategyBasedInspectorAgent" team="A"/>
+    <agent name="agentA24" entity="connectionA24" class="mas.agentsHempelsSofa2013.StrategyBasedInspectorAgent" team="A"/>
+    <agent name="agentA25" entity="connectionA25" class="mas.agentsHempelsSofa2013.StrategyBasedInspectorAgent" team="A"/>
+    <agent name="agentA26" entity="connectionA26" class="mas.agentsHempelsSofa2013.StrategyBasedInspectorAgent" team="A"/>
+    <agent name="agentA27" entity="connectionA27" class="mas.agentsHempelsSofa2013.StrategyBasedInspectorAgent" team="A"/>
+    <agent name="agentA28" entity="connectionA28" class="mas.agentsHempelsSofa2013.StrategyBasedInspectorAgent" team="A"/>
+    </agents>
+</javaAgentsConfig>
