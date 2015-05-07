@@ -60,16 +60,16 @@ public class SentinelAgent extends Agent {
 			println(msg.sender + " told me " + msg.value);
 			String predicate = ((LogicBelief)msg.value).getPredicate();
 			if ( containsBelief((LogicBelief)msg.value) ) {
-				println("I already knew that");
+				println("Ya sabia Putos..");
 			}
 			else {
-				println("that was new to me");
+				println("Ah no mams.. eso no sabia!");
 				if( predicate.equals("probedVertex") || predicate.equals("surveyedEdge") ) {
 					addBelief((LogicBelief)msg.value);
-					println("I will keep that in mind");
+					println("Vas a ver cabron.. Eso no se me va a olvidar");
 					continue;
 				}
-				println("but I am not interested in that gibberish");
+				println("Esa chingadera me vale madre..");
 			}
 		}
 		
@@ -108,7 +108,7 @@ public class SentinelAgent extends Agent {
 			else if ( p.getName().equals("probedVertex") ) {
 				LogicBelief b = MarsUtil.perceptToBelief(p);
 				if ( containsBelief(b) == false ) {
-					println("I perceive the value of a vertex that I have not known before");
+					println("Esto no me huele bien.. Aguas con esta vertice..");
 					addBelief(b);
 					broadcastBelief(b);
 				}
@@ -119,7 +119,7 @@ public class SentinelAgent extends Agent {
 			else if ( p.getName().equals("surveyedEdge") ) {
 				LogicBelief b = MarsUtil.perceptToBelief(p);
 				if ( containsBelief(b) == false ) {
-					println("I perceive the weight of an edge that I have not known before");
+					println("Esto no me huele bien.. Aguas con esta arista..");
 					addBelief(b);
 					broadcastBelief(b);
 				}
@@ -131,7 +131,7 @@ public class SentinelAgent extends Agent {
 				Integer health = new Integer(p.getParameters().get(0).toString());
 				println("my health is " +health );
 				if ( health.intValue() == 0 ) {
-					println("my health is zero. asking for help");
+					println("Ya vali verga.. Traigan ayuda y partenles su madre..");
 					broadcastBelief(new LogicBelief("iAmDisabled"));
 				}
 			}
@@ -180,14 +180,14 @@ public class SentinelAgent extends Agent {
 		
 		beliefs =  getAllBeliefs("energy");
 		if ( beliefs.size() == 0 ) {
-				println("strangely I do not know my energy");
+				println("Semiase que ya ando pedo.. No se cuanta energia tengo");
 				return MarsUtil.skipAction();
 		}		
 		int energy = new Integer(beliefs.getFirst().getParameters().firstElement()).intValue();
 
 		beliefs =  getAllBeliefs("maxEnergy");
 		if ( beliefs.size() == 0 ) {
-				println("strangely I do not know my maxEnergy");
+				println("¿Cual es mi maximo poder??? ¿Que me hicieron putos?");
 				return MarsUtil.skipAction();
 		}		
 		int maxEnergy = new Integer(beliefs.getFirst().getParameters().firstElement()).intValue();
@@ -195,7 +195,7 @@ public class SentinelAgent extends Agent {
 		// if has the goal of being recharged...
 		if ( goals.contains(new LogicGoal("beAtFullCharge")) ) {
 			if ( maxEnergy == energy ) {
-				println("I can stop recharging. I am at full charge");
+				println("Ya me avente un menudazo con un Clamato. Ahora si cabrones.. Agarrense..");
 				removeGoals("beAtFullCharge");
 			}
 			else {
@@ -206,7 +206,7 @@ public class SentinelAgent extends Agent {
 		// go to recharge mode if necessary
 		else {
 			if ( energy < maxEnergy / 3 ) {
-				println("I need to recharge");
+				println("Me estan putiando.. Hagan paro.. ocupo relevo");
 				goals.add(new LogicGoal("beAtFullCharge"));
 				return MarsUtil.rechargeAction();
 			}
@@ -262,7 +262,7 @@ public class SentinelAgent extends Agent {
 		println("" + unsurveyedNum + " out of " + adjacentNum + " adjacent edges are unsurveyed");
 		
 		if ( unsurveyedNum > 0 ) {
-			println("I will survey");
+			println("Me la van a pelar..");
 			return MarsUtil.surveyAction();
 		}
 		
@@ -278,7 +278,7 @@ public class SentinelAgent extends Agent {
 		
 		LinkedList<LogicBelief> beliefs = this.getAllBeliefs("money");
 		if ( beliefs.size() == 0 ) {
-			println("strangely I do not know our money.");
+			println("Cuanto se gastaron en la peda de ayer??.. ya no me salen las cuentas!");
 			return null;
 		}
 		
@@ -286,12 +286,12 @@ public class SentinelAgent extends Agent {
 		int money = new Integer(moneyBelief.getParameters().get(0)).intValue();
 		
 		if ( money < 10 ) {
-			println("we do not have enough money.");
+			println("Culeros, quien se llevo mi cartera??");
 			return null;
 		}
-		println("we do have enough money.");
+		println("Cooperen pa la cagua.. ya se va a acabar el pisto..");
 		
-		println("I am going to buy a battery");
+		println("Voy al OXXO por un SIX TECATE.. Pa agarrar pilas..");
 		
 		return MarsUtil.buyAction("battery");
 		
@@ -306,7 +306,7 @@ public class SentinelAgent extends Agent {
 		}
 		
 		if ( neighbors.size() == 0 ) {
-			println("strangely I do not know any neighbors");
+			println("Onde andan Cabrones????");
 			return MarsUtil.skipAction();
 		}
 		
@@ -319,4 +319,3 @@ public class SentinelAgent extends Agent {
 	}
 
 }
-
