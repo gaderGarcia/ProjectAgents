@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="style.css"?><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" contentScriptType="text/ecmascript" zoomAndPan="magnify" contentStyleType="text/css" preserveAspectRatio="xMidYMid meet" version="1.0">
+<title>MasSim Simulation</title>
+<defs>
+<script type="text/ecmascript"><![CDATA[var dia=new Array ("masSim-1.svg", "masSim-2.svg", "masSim-3.svg", "masSim-4.svg", "masSim-5.svg", "masSim-6.svg", "masSim-7.svg", "masSim-8.svg", "masSim-9.svg", "masSim-10.svg", "masSim-11.svg", "masSim-12.svg", "masSim-13.svg", "masSim-14.svg", "masSim-15.svg", "masSim-16.svg", "masSim-17.svg", "masSim-18.svg", "masSim-19.svg", "masSim-20.svg", "masSim-21.svg", "masSim-22.svg", "masSim-23.svg", "masSim-24.svg", "masSim-25.svg", "masSim-26.svg", "masSim-27.svg", "masSim-28.svg", "masSim-29.svg", "masSim-30.svg", "masSim-31.svg", "masSim-32.svg", "masSim-33.svg", "masSim-34.svg", "masSim-35.svg", "masSim-36.svg", "masSim-37.svg", "masSim-38.svg", "masSim-39.svg", "masSim-40.svg", "masSim-41.svg", "masSim-42.svg", "masSim-43.svg", "masSim-44.svg", "masSim-45.svg", "masSim-46.svg", "masSim-47.svg", "masSim-48.svg", "masSim-49.svg", "masSim-50.svg", "masSim-51.svg", "masSim-52.svg", "masSim-53.svg", "masSim-54.svg", "masSim-55.svg", "masSim-56.svg", "masSim-57.svg", "masSim-58.svg", "masSim-59.svg", "masSim-60.svg", "masSim-61.svg", "masSim-62.svg", "masSim-63.svg", "masSim-64.svg", "masSim-65.svg", "masSim-66.svg", "masSim-67.svg", "masSim-68.svg", "masSim-69.svg", "masSim-70.svg", "masSim-71.svg", "masSim-72.svg", "masSim-73.svg", "masSim-74.svg", "masSim-75.svg", "masSim-76.svg", "masSim-77.svg", "masSim-78.svg", "masSim-79.svg", "masSim-80.svg", "masSim-81.svg", "masSim-82.svg", "masSim-83.svg", "masSim-84.svg", "masSim-85.svg", "masSim-86.svg", "masSim-87.svg", "masSim-88.svg", "masSim-89.svg", "masSim-90.svg", "masSim-91.svg", "masSim-92.svg", "masSim-93.svg", "masSim-94.svg", "masSim-95.svg", "masSim-96.svg", "masSim-97.svg", "masSim-98.svg", "masSim-99.svg", "masSim-100.svg", "masSim-101.svg", "masSim-102.svg", "masSim-103.svg", "masSim-104.svg", "masSim-105.svg", "masSim-106.svg", "masSim-107.svg", "masSim-108.svg", "masSim-109.svg", "masSim-110.svg", "masSim-111.svg", "masSim-112.svg", "masSim-113.svg", "masSim-114.svg", "masSim-115.svg", "masSim-116.svg", "masSim-117.svg", "masSim-118.svg", "masSim-119.svg", "masSim-120.svg", "masSim-121.svg", "masSim-122.svg", "masSim-123.svg", "masSim-124.svg", "masSim-125.svg", "masSim-126.svg", "masSim-127.svg", "masSim-128.svg", "masSim-129.svg", "masSim-130.svg", "masSim-131.svg", "masSim-132.svg", "masSim-133.svg", "masSim-134.svg", "masSim-135.svg", "masSim-136.svg", "masSim-137.svg", "masSim-138.svg", "masSim-139.svg", "masSim-140.svg", "masSim-141.svg", "masSim-142.svg", "masSim-143.svg", "masSim-144.svg", "masSim-145.svg", "masSim-146.svg", "masSim-147.svg", "masSim-148.svg", "masSim-149.svg", "masSim-150.svg", "masSim-151.svg", "masSim-152.svg", "masSim-153.svg", "masSim-154.svg", "masSim-155.svg", "masSim-156.svg", "masSim-157.svg", "masSim-158.svg", "masSim-159.svg", "masSim-160.svg", "masSim-161.svg", "masSim-162.svg", "masSim-163.svg", "masSim-164.svg", "masSim-165.svg", "masSim-166.svg", "masSim-167.svg", "masSim-168.svg", "masSim-169.svg", "masSim-170.svg", "masSim-171.svg", "masSim-172.svg", "masSim-173.svg", "masSim-174.svg", "masSim-175.svg", "masSim-176.svg", "masSim-177.svg", "masSim-178.svg", "masSim-179.svg", "masSim-180.svg", "masSim-181.svg", "masSim-182.svg", "masSim-183.svg", "masSim-184.svg", "masSim-185.svg", "masSim-186.svg", "masSim-187.svg", "masSim-188.svg", "masSim-189.svg", "masSim-190.svg", "masSim-191.svg", "masSim-192.svg", "masSim-193.svg", "masSim-194.svg", "masSim-195.svg", "masSim-196.svg", "masSim-197.svg", "masSim-198.svg", "masSim-199.svg", "masSim-200.svg", "masSim-201.svg", "masSim-202.svg", "masSim-203.svg", "masSim-204.svg", "masSim-205.svg", "masSim-206.svg", "masSim-207.svg", "masSim-208.svg", "masSim-209.svg", "masSim-210.svg", "masSim-211.svg", "masSim-212.svg", "masSim-213.svg", "masSim-214.svg", "masSim-215.svg", "masSim-216.svg", "masSim-217.svg", "masSim-218.svg", "masSim-219.svg", "masSim-220.svg", "masSim-221.svg", "masSim-222.svg", "masSim-223.svg", "masSim-224.svg", "masSim-225.svg", "masSim-226.svg", "masSim-227.svg", "masSim-228.svg", "masSim-229.svg", "masSim-230.svg", "masSim-231.svg", "masSim-232.svg", "masSim-233.svg", "masSim-234.svg", "masSim-235.svg", "masSim-236.svg", "masSim-237.svg", "masSim-238.svg", "masSim-239.svg", "masSim-240.svg", "masSim-241.svg", "masSim-242.svg", "masSim-243.svg", "masSim-244.svg", "masSim-245.svg", "masSim-246.svg", "masSim-247.svg", "masSim-248.svg", "masSim-249.svg", "masSim-250.svg", "masSim-251.svg", "masSim-252.svg", "masSim-253.svg", "masSim-254.svg", "masSim-255.svg", "masSim-256.svg", "masSim-257.svg", "masSim-258.svg", "masSim-259.svg", "masSim-260.svg", "masSim-261.svg", "masSim-262.svg", "masSim-263.svg", "masSim-264.svg", "masSim-265.svg", "masSim-266.svg", "masSim-267.svg", "masSim-268.svg", "masSim-269.svg", "masSim-270.svg", "masSim-271.svg", "masSim-272.svg", "masSim-273.svg", "masSim-274.svg", "masSim-275.svg", "masSim-276.svg", "masSim-277.svg", "masSim-278.svg", "masSim-279.svg", "masSim-280.svg", "masSim-281.svg", "masSim-282.svg", "masSim-283.svg", "masSim-284.svg", "masSim-285.svg", "masSim-286.svg", "masSim-287.svg", "masSim-288.svg", "masSim-289.svg", "masSim-290.svg", "masSim-291.svg", "masSim-292.svg", "masSim-293.svg", "masSim-294.svg", "masSim-295.svg", "masSim-296.svg", "masSim-297.svg", "masSim-298.svg", "masSim-299.svg", "masSim-300.svg", "masSim-301.svg", "masSim-302.svg", "masSim-303.svg", "masSim-304.svg", "masSim-305.svg", "masSim-306.svg", "masSim-307.svg", "masSim-308.svg", "masSim-309.svg", "masSim-310.svg", "masSim-311.svg", "masSim-312.svg", "masSim-313.svg", "masSim-314.svg", "masSim-315.svg", "masSim-316.svg", "masSim-317.svg", "masSim-318.svg", "masSim-319.svg", "masSim-320.svg", "masSim-321.svg", "masSim-322.svg", "masSim-323.svg", "masSim-324.svg", "masSim-325.svg", "masSim-326.svg", "masSim-327.svg", "masSim-328.svg", "masSim-329.svg", "masSim-330.svg", "masSim-331.svg", "masSim-332.svg", "masSim-333.svg", "masSim-334.svg", "masSim-335.svg", "masSim-336.svg", "masSim-337.svg", "masSim-338.svg", "masSim-339.svg", "masSim-340.svg", "masSim-341.svg", "masSim-342.svg", "masSim-343.svg", "masSim-344.svg", "masSim-345.svg", "masSim-346.svg", "masSim-347.svg", "masSim-348.svg", "masSim-349.svg", "masSim-350.svg", "masSim-351.svg", "masSim-352.svg", "masSim-353.svg", "masSim-354.svg", "masSim-355.svg", "masSim-356.svg", "masSim-357.svg", "masSim-358.svg", "masSim-359.svg", "masSim-360.svg", "masSim-361.svg", "masSim-362.svg", "masSim-363.svg", "masSim-364.svg", "masSim-365.svg", "masSim-366.svg", "masSim-367.svg", "masSim-368.svg", "masSim-369.svg", "masSim-370.svg", "masSim-371.svg", "masSim-372.svg", "masSim-373.svg", "masSim-374.svg", "masSim-375.svg", "masSim-376.svg", "masSim-377.svg", "masSim-378.svg", "masSim-379.svg", "masSim-380.svg", "masSim-381.svg", "masSim-382.svg", "masSim-383.svg", "masSim-384.svg", "masSim-385.svg", "masSim-386.svg", "masSim-387.svg", "masSim-388.svg", "masSim-389.svg", "masSim-390.svg", "masSim-391.svg", "masSim-392.svg", "masSim-393.svg", "masSim-394.svg", "masSim-395.svg", "masSim-396.svg", "masSim-397.svg", "masSim-398.svg", "masSim-399.svg", "masSim-400.svg", "masSim-401.svg", "masSim-402.svg", "masSim-403.svg", "masSim-404.svg", "masSim-405.svg", "masSim-406.svg", "masSim-407.svg", "masSim-408.svg", "masSim-409.svg", "masSim-410.svg", "masSim-411.svg", "masSim-412.svg", "masSim-413.svg", "masSim-414.svg", "masSim-415.svg", "masSim-416.svg", "masSim-417.svg", "masSim-418.svg", "masSim-419.svg", "masSim-420.svg", "masSim-421.svg", "masSim-422.svg", "masSim-423.svg", "masSim-424.svg", "masSim-425.svg", "masSim-426.svg", "masSim-427.svg", "masSim-428.svg", "masSim-429.svg", "masSim-430.svg", "masSim-431.svg", "masSim-432.svg", "masSim-433.svg", "masSim-434.svg", "masSim-435.svg", "masSim-436.svg", "masSim-437.svg", "masSim-438.svg", "masSim-439.svg", "masSim-440.svg", "masSim-441.svg", "masSim-442.svg", "masSim-443.svg", "masSim-444.svg", "masSim-445.svg", "masSim-446.svg", "masSim-447.svg", "masSim-448.svg", "masSim-449.svg", "masSim-450.svg", "masSim-451.svg", "masSim-452.svg", "masSim-453.svg", "masSim-454.svg", "masSim-455.svg", "masSim-456.svg", "masSim-457.svg", "masSim-458.svg", "masSim-459.svg", "masSim-460.svg", "masSim-461.svg", "masSim-462.svg", "masSim-463.svg", "masSim-464.svg", "masSim-465.svg", "masSim-466.svg", "masSim-467.svg", "masSim-468.svg", "masSim-469.svg", "masSim-470.svg", "masSim-471.svg", "masSim-472.svg", "masSim-473.svg", "masSim-474.svg", "masSim-475.svg", "masSim-476.svg", "masSim-477.svg", "masSim-478.svg", "masSim-479.svg", "masSim-480.svg", "masSim-481.svg", "masSim-482.svg", "masSim-483.svg", "masSim-484.svg", "masSim-485.svg", "masSim-486.svg", "masSim-487.svg", "masSim-488.svg", "masSim-489.svg", "masSim-490.svg", "masSim-491.svg", "masSim-492.svg", "masSim-493.svg", "masSim-494.svg", "masSim-495.svg", "masSim-496.svg", "masSim-497.svg", "masSim-498.svg", "masSim-499.svg", "masSim-500.svg", "masSim-501.svg", "masSim-502.svg", "masSim-503.svg", "masSim-504.svg", "masSim-505.svg", "masSim-506.svg", "masSim-507.svg", "masSim-508.svg", "masSim-509.svg", "masSim-510.svg", "masSim-511.svg", "masSim-512.svg", "masSim-513.svg", "masSim-514.svg", "masSim-515.svg", "masSim-516.svg", "masSim-517.svg", "masSim-518.svg", "masSim-519.svg", "masSim-520.svg", "masSim-521.svg", "masSim-522.svg", "masSim-523.svg", "masSim-524.svg", "masSim-525.svg", "masSim-526.svg", "masSim-527.svg", "masSim-528.svg", "masSim-529.svg", "masSim-530.svg", "masSim-531.svg", "masSim-532.svg", "masSim-533.svg", "masSim-534.svg", "masSim-535.svg", "masSim-536.svg", "masSim-537.svg", "masSim-538.svg", "masSim-539.svg", "masSim-540.svg", "masSim-541.svg", "masSim-542.svg", "masSim-543.svg", "masSim-544.svg", "masSim-545.svg", "masSim-546.svg", "masSim-547.svg", "masSim-548.svg", "masSim-549.svg", "masSim-550.svg", "masSim-551.svg", "masSim-552.svg", "masSim-553.svg", "masSim-554.svg", "masSim-555.svg", "masSim-556.svg", "masSim-557.svg", "masSim-558.svg", "masSim-559.svg", "masSim-560.svg", "masSim-561.svg", "masSim-562.svg", "masSim-563.svg", "masSim-564.svg", "masSim-565.svg", "masSim-566.svg", "masSim-567.svg", "masSim-568.svg", "masSim-569.svg", "masSim-570.svg", "masSim-571.svg", "masSim-572.svg", "masSim-573.svg", "masSim-574.svg", "masSim-575.svg", "masSim-576.svg", "masSim-577.svg", "masSim-578.svg", "masSim-579.svg", "masSim-580.svg", "masSim-581.svg", "masSim-582.svg", "masSim-583.svg", "masSim-584.svg", "masSim-585.svg", "masSim-586.svg", "masSim-587.svg", "masSim-588.svg", "masSim-589.svg", "masSim-590.svg", "masSim-591.svg", "masSim-592.svg", "masSim-593.svg", "masSim-594.svg", "masSim-595.svg", "masSim-596.svg", "masSim-597.svg", "masSim-598.svg", "masSim-599.svg", "masSim-600.svg", "masSim-601.svg", "masSim-602.svg", "masSim-603.svg", "masSim-604.svg", "masSim-605.svg", "masSim-606.svg", "masSim-607.svg", "masSim-608.svg", "masSim-609.svg", "masSim-610.svg", "masSim-611.svg", "masSim-612.svg", "masSim-613.svg", "masSim-614.svg", "masSim-615.svg", "masSim-616.svg", "masSim-617.svg", "masSim-618.svg", "masSim-619.svg", "masSim-620.svg", "masSim-621.svg", "masSim-622.svg", "masSim-623.svg", "masSim-624.svg", "masSim-625.svg", "masSim-626.svg", "masSim-627.svg", "masSim-628.svg", "masSim-629.svg", "masSim-630.svg", "masSim-631.svg", "masSim-632.svg", "masSim-633.svg", "masSim-634.svg", "masSim-635.svg", "masSim-636.svg", "masSim-637.svg", "masSim-638.svg", "masSim-639.svg", "masSim-640.svg", "masSim-641.svg", "masSim-642.svg", "masSim-643.svg", "masSim-644.svg", "masSim-645.svg", "masSim-646.svg", "masSim-647.svg", "masSim-648.svg", "masSim-649.svg", "masSim-650.svg", "masSim-651.svg", "masSim-652.svg", "masSim-653.svg", "masSim-654.svg", "masSim-655.svg", "masSim-656.svg", "masSim-657.svg", "masSim-658.svg", "masSim-659.svg", "masSim-660.svg", "masSim-661.svg", "masSim-662.svg", "masSim-663.svg", "masSim-664.svg", "masSim-665.svg", "masSim-666.svg", "masSim-667.svg", "masSim-668.svg", "masSim-669.svg", "masSim-670.svg", "masSim-671.svg", "masSim-672.svg", "masSim-673.svg", "masSim-674.svg", "masSim-675.svg", "masSim-676.svg", "masSim-677.svg", "masSim-678.svg", "masSim-679.svg", "masSim-680.svg", "masSim-681.svg", "masSim-682.svg", "masSim-683.svg", "masSim-684.svg", "masSim-685.svg", "masSim-686.svg", "masSim-687.svg", "masSim-688.svg", "masSim-689.svg", "masSim-690.svg", "masSim-691.svg", "masSim-692.svg", "masSim-693.svg", "masSim-694.svg", "masSim-695.svg", "masSim-696.svg", "masSim-697.svg", "masSim-698.svg", "masSim-699.svg", "masSim-700.svg", "masSim-701.svg", "masSim-702.svg", "masSim-703.svg", "masSim-704.svg", "masSim-705.svg", "masSim-706.svg", "masSim-707.svg", "masSim-708.svg", "masSim-709.svg", "masSim-710.svg", "masSim-711.svg", "masSim-712.svg", "masSim-713.svg", "masSim-714.svg", "masSim-715.svg", "masSim-716.svg", "masSim-717.svg", "masSim-718.svg", "masSim-719.svg", "masSim-720.svg", "masSim-721.svg", "masSim-722.svg", "masSim-723.svg", "masSim-724.svg", "masSim-725.svg", "masSim-726.svg", "masSim-727.svg", "masSim-728.svg", "masSim-729.svg", "masSim-730.svg", "masSim-731.svg", "masSim-732.svg", "masSim-733.svg", "masSim-734.svg", "masSim-735.svg", "masSim-736.svg", "masSim-737.svg", "masSim-738.svg", "masSim-739.svg", "masSim-740.svg", "masSim-741.svg", "masSim-742.svg", "masSim-743.svg", "masSim-744.svg", "masSim-745.svg", "masSim-746.svg", "masSim-747.svg", "masSim-748.svg", "masSim-749.svg", "masSim-750.svg", "masSim-751.svg");
+var numberSvgs=751;
+var status="halt";
+var step = 0;
+var time=0;
+var delay = 1000;
+var zoomX = 1;
+var zoomY = 1;
+
+function changeHref(_step) {
+  var img = document.getElementById('image');
+  var img1 = document.getElementById('image1');
+  img.setAttributeNS("http://www.w3.org/1999/xlink", "href", dia[_step] + "#scaleSvg");
+  img1.setAttributeNS("http://www.w3.org/1999/xlink", "href", dia[(_step+1)%numberSvgs] + "#scaleSvg");
+   
+    if (_step==1) {
+    img.setAttributeNS(null, "z-index", "2");
+    img1.setAttributeNS(null, "z-index", "0");
+  } else if ((_step%2) == 0) {
+    img.setAttributeNS(null, "z-index", "0");  
+    img1.setAttributeNS(null, "z-index", "2");
+  } else if ((_step%2) == 1) {
+    img.setAttributeNS(null, "z-index", "2");  
+    img1.setAttributeNS(null, "z-index", "0");
+  }
+/*
+  if (_step==1) {
+    img.setAttributeNS(null, "visibility", "visible");
+    img1.setAttributeNS(null, "visibility", "hidden");
+  } else if ((_step%2) == 0) {
+    img.setAttributeNS(null, "visibility", "hidden");  
+    img1.setAttributeNS(null, "visibility", "visible");
+  } else if ((_step%2) == 1) {
+    img.setAttributeNS(null, "visibility", "visible");  
+    img1.setAttributeNS(null, "visibility", "hidden");
+  }
+*/
+}
+
+ 
+function nextSvg() {
+  step = (step + 1)%numberSvgs;
+  changeHref(step);
+}
+
+function backSvg() {
+  step = (numberSvgs + step - 1)%numberSvgs;
+  changeHref(step);
+}
+ 
+function firstSvg() {
+  step = 0;
+  status = "halt";
+  changeHref(step);
+}
+ 
+function lastSvg() {
+  step = numberSvgs -1;
+  changeHref(step);
+}
+
+
+function playSvg() { 
+  if(status == "halt") { 
+    status = "start"; 
+    load();
+  } 
+} 
+
+ 
+function load() {
+  if(status == "start") {
+    step = (step + 1)%numberSvgs;
+    changeHref(step);
+    setTimeout("load()",delay);
+  }
+}
+ 
+function pauseSvg() {
+  status = "halt";
+  load();
+}
+ 
+function speedPlus() {
+  if(delay > 32) { 
+    delay = delay / 2; 
+  } 
+}
+ 
+function speedMinus() {
+  if(delay < 7999) { 
+    delay = delay * 2;
+  } 
+}
+ 
+ 
+function zoom(x,y) {
+  var img = document.getElementById('zooming');
+  img.setAttribute('transform','scale('+x+' '+y+')');
+  zoomX = x;
+  zoomY = y;
+}
+ 
+function stoperror() { 
+  return true
+}
+ 
+window.onerror=stoperror
+]]></script>
+<style type="text/css"><![CDATA[rect {
+  fill: rgb(140,140,140); 
+}
+.press{
+  cursor: pointer;
+}
+.noPress{
+  cursor: default;
+}
+.control{
+  stroke:black;stroke-width:2;
+}.menu{
+  stroke:black;stroke-width:1.5;
+}
+.special {
+  fill: black;
+  font-size: 12;
+  cursor: pointer;
+}
+.menuText {
+  cursor: pointer;
+  font-size: 9;
+}
+text {
+  font-family:Arial Unicode;
+}
+]]></style>
+</defs>
+<g id="zooming" transform="scale(1.4)">
+<text x="256" y="17" style="font-family:Arial Unicode;font-size:20;">Graph Simulation 2014</text>
+<text x="256" y="37" style="font-family:Arial Unicode;font-size:20;">Mars2014_AB_2014-tournament-sim1</text>
+<use xlink:href="first.svg#first" class="press" transform="translate(10,10) scale(0.2)" onclick="firstSvg()"/>
+<use xlink:href="back.svg#back" class="press" transform="translate(10,10) scale(0.2)" onclick="backSvg()"/>
+<use xlink:href="pause.svg#pause" class="press" transform="translate(10,10) scale(0.2)" onclick="pauseSvg()"/>
+<use xlink:href="stop.svg#stop" class="press" transform="translate(10,10) scale(0.2)" onclick="firstSvg()"/>
+<use xlink:href="play.svg#play" class="press" transform="translate(10,10) scale(0.2)" onclick="playSvg()"/>
+<use xlink:href="next.svg#next" class="press" transform="translate(10,10) scale(0.2)" onclick="nextSvg()"/>
+<use xlink:href="last.svg#last" class="press" transform="translate(10,10) scale(0.2)" onclick="lastSvg()"/>
+<use xlink:href="plus.svg#plus" class="press" transform="translate(10,10) scale(0.2)" onclick="speedPlus()"/>
+<use xlink:href="minus.svg#minus" class="press" transform="translate(10,10) scale(0.2)" onclick="speedMinus()"/>
+<use x="0" xlink:href="masSim-0.svg#scaleSvg" z-index="0" y="40" id="background"/>
+<use x="0" xlink:href="masSim-1.svg#scaleSvg" z-index="0" y="40" id="image"/>
+<use x="0" y="40" visibility="hidden" id="image1" z-index="0" xlink:href="masSim-2.svg#scaleSvg"/>
+</g>
+</svg>

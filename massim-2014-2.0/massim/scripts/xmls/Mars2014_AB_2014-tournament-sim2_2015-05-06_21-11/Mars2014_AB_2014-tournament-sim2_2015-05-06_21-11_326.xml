@@ -1,0 +1,2811 @@
+<?xml version="1.0" encoding="UTF-8"?><simulationstate status="running">
+<state number-of-steps="null" simulation="Mars2014_AB_2014-tournament-sim2" step="326">
+<vertices>
+<vertex dominatorTeam="B" gridX="20" gridY="21" name="v0" weight="1" x="2050" y="2150">
+<entities/>
+</vertex>
+<vertex gridX="13" gridY="8" name="v1" weight="5" x="1350" y="850">
+<entities/>
+</vertex>
+<vertex gridX="3" gridY="11" name="v2" weight="5" x="350" y="1150">
+<entities/>
+</vertex>
+<vertex gridX="10" gridY="21" name="v3" weight="4" x="1050" y="2150">
+<entities/>
+</vertex>
+<vertex gridX="22" gridY="15" name="v4" weight="1" x="2250" y="1550">
+<entities/>
+</vertex>
+<vertex gridX="18" gridY="5" name="v5" weight="1" x="1850" y="550">
+<entities/>
+</vertex>
+<vertex gridX="1" gridY="25" name="v6" weight="10" x="150" y="2550">
+<entities/>
+</vertex>
+<vertex gridX="5" gridY="24" name="v7" weight="4" x="550" y="2450">
+<entities/>
+</vertex>
+<vertex gridX="3" gridY="5" name="v8" weight="4" x="350" y="550">
+<entities/>
+</vertex>
+<vertex gridX="13" gridY="14" name="v9" weight="4" x="1350" y="1450">
+<entities/>
+</vertex>
+<vertex dominatorTeam="A" gridX="3" gridY="1" name="v10" weight="7" x="350" y="150">
+<entities>
+<entity energy="15" health="6" lastAction="noAction" lastActionParam="" lastActionResult="failed" maxEnergy="25" maxEnergyDisabled="25" maxHealth="6" name="a24" node="v10" roleName="Inspector" strength="0" team="A" visRange="1"/>
+</entities>
+</vertex>
+<vertex gridX="4" gridY="1" name="v11" weight="2" x="450" y="150">
+<entities/>
+</vertex>
+<vertex gridX="17" gridY="20" name="v12" weight="3" x="1750" y="2050">
+<entities/>
+</vertex>
+<vertex gridX="11" gridY="0" name="v13" weight="1" x="1150" y="50">
+<entities/>
+</vertex>
+<vertex gridX="11" gridY="23" name="v14" weight="1" x="1150" y="2350">
+<entities/>
+</vertex>
+<vertex gridX="9" gridY="4" name="v15" weight="1" x="950" y="450">
+<entities/>
+</vertex>
+<vertex gridX="10" gridY="3" name="v16" weight="1" x="1050" y="350">
+<entities/>
+</vertex>
+<vertex gridX="15" gridY="17" name="v17" weight="5" x="1550" y="1750">
+<entities/>
+</vertex>
+<vertex gridX="22" gridY="8" name="v18" weight="3" x="2250" y="850">
+<entities/>
+</vertex>
+<vertex gridX="8" gridY="23" name="v19" weight="6" x="850" y="2350">
+<entities/>
+</vertex>
+<vertex gridX="0" gridY="0" name="v20" weight="9" x="50" y="50">
+<entities/>
+</vertex>
+<vertex gridX="14" gridY="21" name="v21" weight="5" x="1450" y="2150">
+<entities/>
+</vertex>
+<vertex gridX="0" gridY="19" name="v22" weight="1" x="50" y="1950">
+<entities/>
+</vertex>
+<vertex gridX="11" gridY="4" name="v23" weight="1" x="1150" y="450">
+<entities/>
+</vertex>
+<vertex gridX="24" gridY="15" name="v24" weight="2" x="2450" y="1550">
+<entities/>
+</vertex>
+<vertex dominatorTeam="A" gridX="0" gridY="10" name="v25" weight="1" x="50" y="1050">
+<entities>
+<entity energy="12" health="1" lastAction="noAction" lastActionParam="" lastActionResult="failed" maxEnergy="34" maxEnergyDisabled="32" maxHealth="1" name="a18" node="v25" roleName="Sentinel" strength="0" team="A" visRange="3"/>
+</entities>
+</vertex>
+<vertex gridX="10" gridY="17" name="v26" weight="5" x="1050" y="1750">
+<entities/>
+</vertex>
+<vertex gridX="13" gridY="21" name="v27" weight="3" x="1350" y="2150">
+<entities/>
+</vertex>
+<vertex gridX="9" gridY="24" name="v28" weight="3" x="950" y="2450">
+<entities/>
+</vertex>
+<vertex gridX="9" gridY="13" name="v29" weight="10" x="950" y="1350">
+<entities/>
+</vertex>
+<vertex gridX="12" gridY="25" name="v30" weight="1" x="1250" y="2550">
+<entities/>
+</vertex>
+<vertex dominatorTeam="B" gridX="12" gridY="3" name="v31" weight="1" x="1250" y="350">
+<entities>
+<entity energy="8" health="3" lastAction="noAction" lastActionParam="" lastActionResult="failed" maxEnergy="20" maxEnergyDisabled="20" maxHealth="3" name="b16" node="v31" roleName="Saboteur" strength="3" team="B" visRange="1"/>
+<entity energy="6" health="0" lastAction="noAction" lastActionParam="" lastActionResult="failed_random" maxEnergy="20" maxEnergyDisabled="20" maxHealth="3" name="a16" node="v31" roleName="Saboteur" strength="3" team="A" visRange="1"/>
+</entities>
+</vertex>
+<vertex gridX="11" gridY="6" name="v32" weight="1" x="1150" y="650">
+<entities/>
+</vertex>
+<vertex gridX="20" gridY="4" name="v33" weight="2" x="2050" y="450">
+<entities/>
+</vertex>
+<vertex dominatorTeam="A" gridX="14" gridY="14" name="v34" weight="5" x="1450" y="1450">
+<entities>
+<entity energy="24" health="1" lastAction="noAction" lastActionParam="" lastActionResult="failed" maxEnergy="32" maxEnergyDisabled="31" maxHealth="1" name="a19" node="v34" roleName="Sentinel" strength="0" team="A" visRange="3"/>
+</entities>
+</vertex>
+<vertex gridX="15" gridY="25" name="v35" weight="2" x="1550" y="2550">
+<entities/>
+</vertex>
+<vertex gridX="17" gridY="22" name="v36" weight="5" x="1750" y="2250">
+<entities/>
+</vertex>
+<vertex dominatorTeam="B" gridX="21" gridY="22" name="v37" weight="1" x="2150" y="2250">
+<entities/>
+</vertex>
+<vertex gridX="10" gridY="6" name="v38" weight="1" x="1050" y="650">
+<entities/>
+</vertex>
+<vertex gridX="8" gridY="10" name="v39" weight="4" x="850" y="1050">
+<entities/>
+</vertex>
+<vertex gridX="18" gridY="24" name="v40" weight="10" x="1850" y="2450">
+<entities/>
+</vertex>
+<vertex gridX="5" gridY="2" name="v41" weight="1" x="550" y="250">
+<entities/>
+</vertex>
+<vertex gridX="11" gridY="16" name="v42" weight="4" x="1150" y="1650">
+<entities/>
+</vertex>
+<vertex gridX="8" gridY="22" name="v43" weight="5" x="850" y="2250">
+<entities/>
+</vertex>
+<vertex gridX="7" gridY="20" name="v44" weight="1" x="750" y="2050">
+<entities/>
+</vertex>
+<vertex dominatorTeam="A" gridX="20" gridY="9" name="v45" weight="4" x="2050" y="950">
+<entities>
+<entity energy="19" health="1" lastAction="noAction" lastActionParam="" lastActionResult="failed" maxEnergy="32" maxEnergyDisabled="31" maxHealth="1" name="a17" node="v45" roleName="Sentinel" strength="0" team="A" visRange="3"/>
+</entities>
+</vertex>
+<vertex gridX="25" gridY="13" name="v46" weight="1" x="2550" y="1350">
+<entities/>
+</vertex>
+<vertex gridX="8" gridY="1" name="v47" weight="1" x="850" y="150">
+<entities/>
+</vertex>
+<vertex dominatorTeam="B" gridX="20" gridY="11" name="v48" weight="3" x="2050" y="1150">
+<entities>
+<entity energy="0" health="6" lastAction="noAction" lastActionParam="" lastActionResult="failed" maxEnergy="25" maxEnergyDisabled="25" maxHealth="6" name="b10" node="v48" roleName="Repairer" strength="0" team="B" visRange="1"/>
+</entities>
+</vertex>
+<vertex gridX="9" gridY="11" name="v49" weight="4" x="950" y="1150">
+<entities/>
+</vertex>
+<vertex gridX="8" gridY="7" name="v50" weight="1" x="850" y="750">
+<entities/>
+</vertex>
+<vertex dominatorTeam="B" gridX="0" gridY="13" name="v51" weight="1" x="50" y="1350">
+<entities>
+<entity energy="15" health="4" lastAction="noAction" lastActionParam="" lastActionResult="failed" maxEnergy="35" maxEnergyDisabled="35" maxHealth="4" name="b6" node="v51" roleName="Explorer" strength="0" team="B" visRange="2"/>
+</entities>
+</vertex>
+<vertex gridX="13" gridY="25" name="v52" weight="1" x="1350" y="2550">
+<entities/>
+</vertex>
+<vertex gridX="12" gridY="15" name="v53" weight="4" x="1250" y="1550">
+<entities/>
+</vertex>
+<vertex gridX="22" gridY="7" name="v54" weight="3" x="2250" y="750">
+<entities/>
+</vertex>
+<vertex gridX="18" gridY="10" name="v55" weight="4" x="1850" y="1050">
+<entities/>
+</vertex>
+<vertex gridX="15" gridY="3" name="v56" weight="1" x="1550" y="350">
+<entities/>
+</vertex>
+<vertex gridX="11" gridY="12" name="v57" weight="3" x="1150" y="1250">
+<entities/>
+</vertex>
+<vertex gridX="16" gridY="13" name="v58" weight="10" x="1650" y="1350">
+<entities/>
+</vertex>
+<vertex gridX="14" gridY="4" name="v59" weight="1" x="1450" y="450">
+<entities/>
+</vertex>
+<vertex gridX="10" gridY="19" name="v60" weight="8" x="1050" y="1950">
+<entities/>
+</vertex>
+<vertex gridX="0" gridY="14" name="v61" weight="2" x="50" y="1450">
+<entities/>
+</vertex>
+<vertex gridX="7" gridY="24" name="v62" weight="10" x="750" y="2450">
+<entities/>
+</vertex>
+<vertex gridX="7" gridY="3" name="v63" weight="1" x="750" y="350">
+<entities/>
+</vertex>
+<vertex gridX="20" gridY="0" name="v64" weight="5" x="2050" y="50">
+<entities/>
+</vertex>
+<vertex gridX="18" gridY="8" name="v65" weight="3" x="1850" y="850">
+<entities/>
+</vertex>
+<vertex gridX="10" gridY="7" name="v66" weight="1" x="1050" y="750">
+<entities/>
+</vertex>
+<vertex gridX="4" gridY="22" name="v67" weight="1" x="450" y="2250">
+<entities/>
+</vertex>
+<vertex gridX="1" gridY="17" name="v68" weight="10" x="150" y="1750">
+<entities/>
+</vertex>
+<vertex gridX="16" gridY="23" name="v69" weight="4" x="1650" y="2350">
+<entities/>
+</vertex>
+<vertex dominatorTeam="A" gridX="10" gridY="4" name="v70" weight="1" x="1050" y="450">
+<entities>
+<entity energy="0" health="6" lastAction="noAction" lastActionParam="" lastActionResult="failed" maxEnergy="25" maxEnergyDisabled="25" maxHealth="6" name="a8" node="v70" roleName="Repairer" strength="0" team="A" visRange="1"/>
+</entities>
+</vertex>
+<vertex dominatorTeam="B" gridX="21" gridY="23" name="v71" weight="1" x="2150" y="2350">
+<entities/>
+</vertex>
+<vertex gridX="10" gridY="9" name="v72" weight="2" x="1050" y="950">
+<entities/>
+</vertex>
+<vertex dominatorTeam="B" gridX="24" gridY="25" name="v73" weight="10" x="2450" y="2550">
+<entities/>
+</vertex>
+<vertex dominatorTeam="B" gridX="23" gridY="21" name="v74" weight="1" x="2350" y="2150">
+<entities/>
+</vertex>
+<vertex gridX="5" gridY="3" name="v75" weight="2" x="550" y="350">
+<entities/>
+</vertex>
+<vertex gridX="19" gridY="14" name="v76" weight="1" x="1950" y="1450">
+<entities/>
+</vertex>
+<vertex dominatorTeam="B" gridX="16" gridY="9" name="v77" weight="1" x="1650" y="950">
+<entities/>
+</vertex>
+<vertex dominatorTeam="B" gridX="24" gridY="20" name="v78" weight="1" x="2450" y="2050">
+<entities/>
+</vertex>
+<vertex dominatorTeam="A" gridX="13" gridY="7" name="v79" weight="10" x="1350" y="750">
+<entities>
+<entity energy="11" health="4" lastAction="noAction" lastActionParam="" lastActionResult="failed" maxEnergy="37" maxEnergyDisabled="36" maxHealth="4" name="a4" node="v79" roleName="Explorer" strength="0" team="A" visRange="2"/>
+</entities>
+</vertex>
+<vertex gridX="7" gridY="15" name="v80" weight="1" x="750" y="1550">
+<entities/>
+</vertex>
+<vertex gridX="10" gridY="18" name="v81" weight="4" x="1050" y="1850">
+<entities/>
+</vertex>
+<vertex gridX="11" gridY="19" name="v82" weight="6" x="1150" y="1950">
+<entities/>
+</vertex>
+<vertex dominatorTeam="A" gridX="19" gridY="4" name="v83" weight="2" x="1950" y="450">
+<entities>
+<entity energy="37" health="4" lastAction="noAction" lastActionParam="" lastActionResult="failed" maxEnergy="39" maxEnergyDisabled="37" maxHealth="4" name="a5" node="v83" roleName="Explorer" strength="0" team="A" visRange="2"/>
+</entities>
+</vertex>
+<vertex gridX="7" gridY="6" name="v84" weight="2" x="750" y="650">
+<entities/>
+</vertex>
+<vertex dominatorTeam="B" gridX="25" gridY="22" name="v85" weight="5" x="2550" y="2250">
+<entities/>
+</vertex>
+<vertex gridX="12" gridY="6" name="v86" weight="1" x="1250" y="650">
+<entities/>
+</vertex>
+<vertex gridX="3" gridY="19" name="v87" weight="1" x="350" y="1950">
+<entities/>
+</vertex>
+<vertex gridX="12" gridY="23" name="v88" weight="1" x="1250" y="2350">
+<entities/>
+</vertex>
+<vertex gridX="0" gridY="5" name="v89" weight="1" x="50" y="550">
+<entities/>
+</vertex>
+<vertex gridX="17" gridY="14" name="v90" weight="6" x="1750" y="1450">
+<entities/>
+</vertex>
+<vertex gridX="17" gridY="8" name="v91" weight="4" x="1750" y="850">
+<entities/>
+</vertex>
+<vertex gridX="10" gridY="25" name="v92" weight="2" x="1050" y="2550">
+<entities/>
+</vertex>
+<vertex gridX="12" gridY="11" name="v93" weight="2" x="1250" y="1150">
+<entities/>
+</vertex>
+<vertex dominatorTeam="B" gridX="8" gridY="18" name="v94" weight="1" x="850" y="1850">
+<entities/>
+</vertex>
+<vertex gridX="18" gridY="7" name="v95" weight="4" x="1850" y="750">
+<entities/>
+</vertex>
+<vertex gridX="1" gridY="24" name="v96" weight="3" x="150" y="2450">
+<entities/>
+</vertex>
+<vertex gridX="9" gridY="16" name="v97" weight="4" x="950" y="1650">
+<entities/>
+</vertex>
+<vertex gridX="15" gridY="18" name="v98" weight="4" x="1550" y="1850">
+<entities/>
+</vertex>
+<vertex gridX="9" gridY="1" name="v99" weight="1" x="950" y="150">
+<entities/>
+</vertex>
+<vertex gridX="10" gridY="2" name="v100" weight="1" x="1050" y="250">
+<entities/>
+</vertex>
+<vertex gridX="5" gridY="17" name="v101" weight="1" x="550" y="1750">
+<entities/>
+</vertex>
+<vertex gridX="4" gridY="18" name="v102" weight="1" x="450" y="1850">
+<entities/>
+</vertex>
+<vertex gridX="5" gridY="21" name="v103" weight="1" x="550" y="2150">
+<entities/>
+</vertex>
+<vertex gridX="5" gridY="19" name="v104" weight="1" x="550" y="1950">
+<entities/>
+</vertex>
+<vertex gridX="11" gridY="17" name="v105" weight="4" x="1150" y="1750">
+<entities/>
+</vertex>
+<vertex gridX="3" gridY="24" name="v106" weight="2" x="350" y="2450">
+<entities/>
+</vertex>
+<vertex gridX="14" gridY="8" name="v107" weight="4" x="1450" y="850">
+<entities/>
+</vertex>
+<vertex gridX="21" gridY="16" name="v108" weight="1" x="2150" y="1650">
+<entities/>
+</vertex>
+<vertex dominatorTeam="A" gridX="20" gridY="25" name="v109" weight="4" x="2050" y="2550">
+<entities>
+<entity energy="19" health="4" lastAction="noAction" lastActionParam="" lastActionResult="failed" maxEnergy="35" maxEnergyDisabled="35" maxHealth="4" name="a2" node="v109" roleName="Explorer" strength="0" team="A" visRange="2"/>
+</entities>
+</vertex>
+<vertex gridX="17" gridY="6" name="v110" weight="1" x="1750" y="650">
+<entities/>
+</vertex>
+<vertex dominatorTeam="A" gridX="12" gridY="21" name="v111" weight="3" x="1250" y="2150">
+<entities>
+<entity energy="13" health="6" lastAction="noAction" lastActionParam="" lastActionResult="failed" maxEnergy="29" maxEnergyDisabled="27" maxHealth="6" name="a25" node="v111" roleName="Inspector" strength="0" team="A" visRange="1"/>
+</entities>
+</vertex>
+<vertex gridX="21" gridY="13" name="v112" weight="2" x="2150" y="1350">
+<entities/>
+</vertex>
+<vertex gridX="3" gridY="7" name="v113" weight="3" x="350" y="750">
+<entities/>
+</vertex>
+<vertex gridX="0" gridY="17" name="v114" weight="3" x="50" y="1750">
+<entities/>
+</vertex>
+<vertex gridX="12" gridY="7" name="v115" weight="10" x="1250" y="750">
+<entities/>
+</vertex>
+<vertex dominatorTeam="A" gridX="8" gridY="12" name="v116" weight="6" x="850" y="1250">
+<entities>
+<entity energy="0" health="6" lastAction="noAction" lastActionParam="" lastActionResult="failed" maxEnergy="25" maxEnergyDisabled="25" maxHealth="6" name="a7" node="v116" roleName="Repairer" strength="0" team="A" visRange="1"/>
+</entities>
+</vertex>
+<vertex gridX="23" gridY="8" name="v117" weight="1" x="2350" y="850">
+<entities/>
+</vertex>
+<vertex dominatorTeam="B" gridX="5" gridY="16" name="v118" weight="1" x="550" y="1650">
+<entities>
+<entity energy="32" health="1" lastAction="noAction" lastActionParam="" lastActionResult="failed" maxEnergy="32" maxEnergyDisabled="31" maxHealth="1" name="b22" node="v118" roleName="Sentinel" strength="0" team="B" visRange="3"/>
+</entities>
+</vertex>
+<vertex dominatorTeam="B" gridX="1" gridY="13" name="v119" weight="1" x="150" y="1350">
+<entities/>
+</vertex>
+<vertex gridX="1" gridY="9" name="v120" weight="1" x="150" y="950">
+<entities/>
+</vertex>
+<vertex gridX="16" gridY="4" name="v121" weight="1" x="1650" y="450">
+<entities/>
+</vertex>
+<vertex gridX="24" gridY="2" name="v122" weight="9" x="2450" y="250">
+<entities/>
+</vertex>
+<vertex gridX="16" gridY="16" name="v123" weight="4" x="1650" y="1650">
+<entities/>
+</vertex>
+<vertex gridX="17" gridY="7" name="v124" weight="1" x="1750" y="750">
+<entities/>
+</vertex>
+<vertex gridX="3" gridY="14" name="v125" weight="2" x="350" y="1450">
+<entities/>
+</vertex>
+<vertex gridX="15" gridY="4" name="v126" weight="1" x="1550" y="450">
+<entities/>
+</vertex>
+<vertex gridX="12" gridY="13" name="v127" weight="2" x="1250" y="1350">
+<entities/>
+</vertex>
+<vertex gridX="8" gridY="6" name="v128" weight="1" x="850" y="650">
+<entities/>
+</vertex>
+<vertex gridX="6" gridY="11" name="v129" weight="3" x="650" y="1150">
+<entities/>
+</vertex>
+<vertex gridX="17" gridY="9" name="v130" weight="2" x="1750" y="950">
+<entities/>
+</vertex>
+<vertex gridX="20" gridY="15" name="v131" weight="1" x="2050" y="1550">
+<entities/>
+</vertex>
+<vertex gridX="22" gridY="4" name="v132" weight="6" x="2250" y="450">
+<entities/>
+</vertex>
+<vertex gridX="13" gridY="15" name="v133" weight="4" x="1350" y="1550">
+<entities/>
+</vertex>
+<vertex gridX="0" gridY="4" name="v134" weight="10" x="50" y="450">
+<entities/>
+</vertex>
+<vertex gridX="4" gridY="4" name="v135" weight="3" x="450" y="450">
+<entities/>
+</vertex>
+<vertex gridX="14" gridY="18" name="v136" weight="4" x="1450" y="1850">
+<entities/>
+</vertex>
+<vertex gridX="1" gridY="12" name="v137" weight="2" x="150" y="1250">
+<entities/>
+</vertex>
+<vertex gridX="12" gridY="2" name="v138" weight="1" x="1250" y="250">
+<entities/>
+</vertex>
+<vertex gridX="14" gridY="20" name="v139" weight="5" x="1450" y="2050">
+<entities/>
+</vertex>
+<vertex dominatorTeam="A" gridX="6" gridY="7" name="v140" weight="10" x="650" y="750">
+<entities>
+<entity energy="18" health="6" lastAction="noAction" lastActionParam="" lastActionResult="failed" maxEnergy="27" maxEnergyDisabled="26" maxHealth="6" name="a23" node="v140" roleName="Inspector" strength="0" team="A" visRange="1"/>
+</entities>
+</vertex>
+<vertex dominatorTeam="B" gridX="17" gridY="2" name="v141" weight="1" x="1750" y="250">
+<entities>
+<entity energy="0" health="6" lastAction="noAction" lastActionParam="" lastActionResult="failed" maxEnergy="25" maxEnergyDisabled="25" maxHealth="6" name="b8" node="v141" roleName="Repairer" strength="0" team="B" visRange="1"/>
+</entities>
+</vertex>
+<vertex gridX="6" gridY="4" name="v142" weight="2" x="650" y="450">
+<entities/>
+</vertex>
+<vertex gridX="24" gridY="13" name="v143" weight="1" x="2450" y="1350">
+<entities/>
+</vertex>
+<vertex dominatorTeam="B" gridX="20" gridY="18" name="v144" weight="1" x="2050" y="1850">
+<entities/>
+</vertex>
+<vertex gridX="3" gridY="2" name="v145" weight="4" x="350" y="250">
+<entities/>
+</vertex>
+<vertex gridX="2" gridY="5" name="v146" weight="6" x="250" y="550">
+<entities/>
+</vertex>
+<vertex gridX="23" gridY="2" name="v147" weight="9" x="2350" y="250">
+<entities/>
+</vertex>
+<vertex gridX="6" gridY="17" name="v148" weight="1" x="650" y="1750">
+<entities/>
+</vertex>
+<vertex gridX="14" gridY="12" name="v149" weight="3" x="1450" y="1250">
+<entities/>
+</vertex>
+<vertex dominatorTeam="B" gridX="6" gridY="0" name="v150" weight="1" x="650" y="50">
+<entities>
+<entity energy="28" health="1" lastAction="noAction" lastActionParam="" lastActionResult="failed" maxEnergy="32" maxEnergyDisabled="31" maxHealth="1" name="b19" node="v150" roleName="Sentinel" strength="0" team="B" visRange="3"/>
+</entities>
+</vertex>
+<vertex gridX="17" gridY="3" name="v151" weight="1" x="1750" y="350">
+<entities/>
+</vertex>
+<vertex gridX="2" gridY="4" name="v152" weight="10" x="250" y="450">
+<entities/>
+</vertex>
+<vertex gridX="10" gridY="15" name="v153" weight="4" x="1050" y="1550">
+<entities/>
+</vertex>
+<vertex dominatorTeam="B" gridX="22" gridY="24" name="v154" weight="2" x="2250" y="2450">
+<entities/>
+</vertex>
+<vertex gridX="25" gridY="4" name="v155" weight="10" x="2550" y="450">
+<entities/>
+</vertex>
+<vertex gridX="23" gridY="15" name="v156" weight="2" x="2350" y="1550">
+<entities/>
+</vertex>
+<vertex gridX="17" gridY="23" name="v157" weight="6" x="1750" y="2350">
+<entities/>
+</vertex>
+<vertex gridX="5" gridY="1" name="v158" weight="1" x="550" y="150">
+<entities/>
+</vertex>
+<vertex dominatorTeam="B" gridX="8" gridY="16" name="v159" weight="1" x="850" y="1650">
+<entities>
+<entity energy="16" health="6" lastAction="noAction" lastActionParam="" lastActionResult="failed" maxEnergy="25" maxEnergyDisabled="25" maxHealth="6" name="b28" node="v159" roleName="Inspector" strength="0" team="B" visRange="1"/>
+</entities>
+</vertex>
+<vertex gridX="17" gridY="11" name="v160" weight="4" x="1750" y="1150">
+<entities/>
+</vertex>
+<vertex gridX="15" gridY="15" name="v161" weight="4" x="1550" y="1550">
+<entities/>
+</vertex>
+<vertex gridX="24" gridY="4" name="v162" weight="9" x="2450" y="450">
+<entities/>
+</vertex>
+<vertex gridX="1" gridY="4" name="v163" weight="9" x="150" y="450">
+<entities/>
+</vertex>
+<vertex dominatorTeam="B" gridX="25" gridY="23" name="v164" weight="2" x="2550" y="2350">
+<entities/>
+</vertex>
+<vertex gridX="24" gridY="10" name="v165" weight="1" x="2450" y="1050">
+<entities/>
+</vertex>
+<vertex gridX="8" gridY="11" name="v166" weight="4" x="850" y="1150">
+<entities/>
+</vertex>
+<vertex gridX="5" gridY="4" name="v167" weight="2" x="550" y="450">
+<entities/>
+</vertex>
+<vertex gridX="17" gridY="15" name="v168" weight="2" x="1750" y="1550">
+<entities/>
+</vertex>
+<vertex gridX="19" gridY="7" name="v169" weight="10" x="1950" y="750">
+<entities/>
+</vertex>
+<vertex gridX="15" gridY="23" name="v170" weight="3" x="1550" y="2350">
+<entities/>
+</vertex>
+<vertex gridX="10" gridY="20" name="v171" weight="10" x="1050" y="2050">
+<entities/>
+</vertex>
+<vertex gridX="11" gridY="25" name="v172" weight="1" x="1150" y="2550">
+<entities/>
+</vertex>
+<vertex gridX="8" gridY="25" name="v173" weight="8" x="850" y="2550">
+<entities/>
+</vertex>
+<vertex gridX="8" gridY="0" name="v174" weight="1" x="850" y="50">
+<entities/>
+</vertex>
+<vertex gridX="14" gridY="16" name="v175" weight="4" x="1450" y="1650">
+<entities/>
+</vertex>
+<vertex gridX="24" gridY="3" name="v176" weight="9" x="2450" y="350">
+<entities/>
+</vertex>
+<vertex gridX="14" gridY="5" name="v177" weight="1" x="1450" y="550">
+<entities/>
+</vertex>
+<vertex gridX="21" gridY="1" name="v178" weight="2" x="2150" y="150">
+<entities/>
+</vertex>
+<vertex gridX="15" gridY="20" name="v179" weight="10" x="1550" y="2050">
+<entities/>
+</vertex>
+<vertex gridX="2" gridY="12" name="v180" weight="4" x="250" y="1250">
+<entities/>
+</vertex>
+<vertex dominatorTeam="A" gridX="9" gridY="8" name="v181" weight="1" x="950" y="850">
+<entities>
+<entity energy="35" health="4" lastAction="noAction" lastActionParam="" lastActionResult="failed" maxEnergy="35" maxEnergyDisabled="35" maxHealth="4" name="a3" node="v181" roleName="Explorer" strength="0" team="A" visRange="2"/>
+</entities>
+</vertex>
+<vertex gridX="11" gridY="11" name="v182" weight="3" x="1150" y="1150">
+<entities/>
+</vertex>
+<vertex gridX="4" gridY="13" name="v183" weight="2" x="450" y="1350">
+<entities/>
+</vertex>
+<vertex gridX="21" gridY="11" name="v184" weight="6" x="2150" y="1150">
+<entities/>
+</vertex>
+<vertex gridX="12" gridY="5" name="v185" weight="1" x="1250" y="550">
+<entities/>
+</vertex>
+<vertex gridX="6" gridY="18" name="v186" weight="1" x="650" y="1850">
+<entities/>
+</vertex>
+<vertex gridX="19" gridY="25" name="v187" weight="10" x="1950" y="2550">
+<entities/>
+</vertex>
+<vertex gridX="23" gridY="11" name="v188" weight="5" x="2350" y="1150">
+<entities/>
+</vertex>
+<vertex dominatorTeam="A" gridX="2" gridY="17" name="v189" weight="3" x="250" y="1750">
+<entities/>
+</vertex>
+<vertex dominatorTeam="A" gridX="17" gridY="17" name="v190" weight="1" x="1750" y="1750">
+<entities/>
+</vertex>
+<vertex gridX="0" gridY="2" name="v191" weight="9" x="50" y="250">
+<entities/>
+</vertex>
+<vertex gridX="0" gridY="23" name="v192" weight="2" x="50" y="2350">
+<entities/>
+</vertex>
+<vertex gridX="13" gridY="6" name="v193" weight="1" x="1350" y="650">
+<entities/>
+</vertex>
+<vertex gridX="4" gridY="24" name="v194" weight="1" x="450" y="2450">
+<entities/>
+</vertex>
+<vertex dominatorTeam="B" gridX="22" gridY="23" name="v195" weight="1" x="2250" y="2350">
+<entities/>
+</vertex>
+<vertex gridX="2" gridY="22" name="v196" weight="1" x="250" y="2250">
+<entities/>
+</vertex>
+<vertex dominatorTeam="B" gridX="15" gridY="24" name="v197" weight="3" x="1550" y="2450">
+<entities>
+<entity energy="0" health="6" lastAction="noAction" lastActionParam="" lastActionResult="failed" maxEnergy="25" maxEnergyDisabled="25" maxHealth="6" name="b9" node="v197" roleName="Repairer" strength="0" team="B" visRange="1"/>
+</entities>
+</vertex>
+<vertex gridX="14" gridY="6" name="v198" weight="1" x="1450" y="650">
+<entities/>
+</vertex>
+<vertex gridX="5" gridY="10" name="v199" weight="5" x="550" y="1050">
+<entities/>
+</vertex>
+<vertex gridX="0" gridY="24" name="v200" weight="2" x="50" y="2450">
+<entities/>
+</vertex>
+<vertex dominatorTeam="B" gridX="25" gridY="21" name="v201" weight="10" x="2550" y="2150">
+<entities/>
+</vertex>
+<vertex gridX="8" gridY="8" name="v202" weight="4" x="850" y="850">
+<entities/>
+</vertex>
+<vertex gridX="4" gridY="2" name="v203" weight="1" x="450" y="250">
+<entities/>
+</vertex>
+<vertex gridX="13" gridY="13" name="v204" weight="2" x="1350" y="1350">
+<entities/>
+</vertex>
+<vertex gridX="19" gridY="15" name="v205" weight="1" x="1950" y="1550">
+<entities/>
+</vertex>
+<vertex gridX="19" gridY="18" name="v206" weight="1" x="1950" y="1850">
+<entities/>
+</vertex>
+<vertex gridX="24" gridY="7" name="v207" weight="2" x="2450" y="750">
+<entities/>
+</vertex>
+<vertex gridX="9" gridY="9" name="v208" weight="1" x="950" y="950">
+<entities/>
+</vertex>
+<vertex gridX="13" gridY="2" name="v209" weight="1" x="1350" y="250">
+<entities/>
+</vertex>
+<vertex gridX="14" gridY="7" name="v210" weight="2" x="1450" y="750">
+<entities/>
+</vertex>
+<vertex gridX="11" gridY="5" name="v211" weight="1" x="1150" y="550">
+<entities/>
+</vertex>
+<vertex dominatorTeam="B" gridX="1" gridY="21" name="v212" weight="2" x="150" y="2150">
+<entities>
+<entity energy="27" health="6" lastAction="noAction" lastActionParam="" lastActionResult="failed" maxEnergy="27" maxEnergyDisabled="26" maxHealth="6" name="b26" node="v212" roleName="Inspector" strength="0" team="B" visRange="1"/>
+</entities>
+</vertex>
+<vertex gridX="11" gridY="7" name="v213" weight="2" x="1150" y="750">
+<entities/>
+</vertex>
+<vertex gridX="20" gridY="13" name="v214" weight="2" x="2050" y="1350">
+<entities/>
+</vertex>
+<vertex gridX="22" gridY="3" name="v215" weight="8" x="2250" y="350">
+<entities/>
+</vertex>
+<vertex gridX="18" gridY="20" name="v216" weight="1" x="1850" y="2050">
+<entities/>
+</vertex>
+<vertex gridX="7" gridY="8" name="v217" weight="3" x="750" y="850">
+<entities/>
+</vertex>
+<vertex gridX="12" gridY="0" name="v218" weight="1" x="1250" y="50">
+<entities/>
+</vertex>
+<vertex gridX="3" gridY="10" name="v219" weight="10" x="350" y="1050">
+<entities/>
+</vertex>
+<vertex gridX="11" gridY="18" name="v220" weight="4" x="1150" y="1850">
+<entities/>
+</vertex>
+<vertex gridX="3" gridY="12" name="v221" weight="2" x="350" y="1250">
+<entities/>
+</vertex>
+<vertex gridX="6" gridY="14" name="v222" weight="1" x="650" y="1450">
+<entities/>
+</vertex>
+<vertex dominatorTeam="A" gridX="17" gridY="24" name="v223" weight="6" x="1750" y="2450">
+<entities>
+<entity energy="19" health="4" lastAction="noAction" lastActionParam="" lastActionResult="failed" maxEnergy="35" maxEnergyDisabled="35" maxHealth="4" name="a6" node="v223" roleName="Explorer" strength="0" team="A" visRange="2"/>
+</entities>
+</vertex>
+<vertex gridX="16" gridY="20" name="v224" weight="5" x="1650" y="2050">
+<entities/>
+</vertex>
+<vertex gridX="25" gridY="11" name="v225" weight="1" x="2550" y="1150">
+<entities/>
+</vertex>
+<vertex dominatorTeam="B" gridX="8" gridY="19" name="v226" weight="1" x="850" y="1950">
+<entities>
+<entity energy="0" health="6" lastAction="noAction" lastActionParam="" lastActionResult="failed" maxEnergy="25" maxEnergyDisabled="25" maxHealth="6" name="b11" node="v226" roleName="Repairer" strength="0" team="B" visRange="1"/>
+</entities>
+</vertex>
+<vertex gridX="2" gridY="2" name="v227" weight="9" x="250" y="250">
+<entities/>
+</vertex>
+<vertex gridX="6" gridY="24" name="v228" weight="5" x="650" y="2450">
+<entities/>
+</vertex>
+<vertex gridX="21" gridY="12" name="v229" weight="3" x="2150" y="1250">
+<entities/>
+</vertex>
+<vertex gridX="14" gridY="15" name="v230" weight="4" x="1450" y="1550">
+<entities/>
+</vertex>
+<vertex gridX="3" gridY="3" name="v231" weight="8" x="350" y="350">
+<entities/>
+</vertex>
+<vertex gridX="3" gridY="4" name="v232" weight="6" x="350" y="450">
+<entities/>
+</vertex>
+<vertex gridX="9" gridY="14" name="v233" weight="5" x="950" y="1450">
+<entities/>
+</vertex>
+<vertex gridX="22" gridY="12" name="v234" weight="2" x="2250" y="1250">
+<entities/>
+</vertex>
+<vertex gridX="6" gridY="9" name="v235" weight="4" x="650" y="950">
+<entities/>
+</vertex>
+<vertex gridX="19" gridY="9" name="v236" weight="4" x="1950" y="950">
+<entities/>
+</vertex>
+<vertex dominatorTeam="B" gridX="23" gridY="23" name="v237" weight="1" x="2350" y="2350">
+<entities/>
+</vertex>
+<vertex gridX="14" gridY="17" name="v238" weight="4" x="1450" y="1750">
+<entities/>
+</vertex>
+<vertex gridX="11" gridY="14" name="v239" weight="5" x="1150" y="1450">
+<entities/>
+</vertex>
+<vertex gridX="15" gridY="19" name="v240" weight="8" x="1550" y="1950">
+<entities/>
+</vertex>
+<vertex gridX="14" gridY="22" name="v241" weight="3" x="1450" y="2250">
+<entities/>
+</vertex>
+<vertex gridX="3" gridY="22" name="v242" weight="1" x="350" y="2250">
+<entities/>
+</vertex>
+<vertex gridX="19" gridY="20" name="v243" weight="2" x="1950" y="2050">
+<entities/>
+</vertex>
+<vertex gridX="20" gridY="10" name="v244" weight="5" x="2050" y="1050">
+<entities/>
+</vertex>
+<vertex gridX="25" gridY="17" name="v245" weight="3" x="2550" y="1750">
+<entities/>
+</vertex>
+<vertex gridX="0" gridY="6" name="v246" weight="1" x="50" y="650">
+<entities/>
+</vertex>
+<vertex dominatorTeam="B" gridX="24" gridY="24" name="v247" weight="3" x="2450" y="2450">
+<entities/>
+</vertex>
+<vertex gridX="18" gridY="0" name="v248" weight="1" x="1850" y="50">
+<entities/>
+</vertex>
+<vertex gridX="8" gridY="21" name="v249" weight="4" x="850" y="2150">
+<entities/>
+</vertex>
+<vertex gridX="20" gridY="19" name="v250" weight="1" x="2050" y="1950">
+<entities/>
+</vertex>
+<vertex dominatorTeam="B" gridX="21" gridY="19" name="v251" weight="1" x="2150" y="1950">
+<entities>
+<entity energy="21" health="1" lastAction="noAction" lastActionParam="" lastActionResult="failed" maxEnergy="34" maxEnergyDisabled="32" maxHealth="1" name="b18" node="v251" roleName="Sentinel" strength="0" team="B" visRange="3"/>
+</entities>
+</vertex>
+<vertex dominatorTeam="A" gridX="3" gridY="16" name="v252" weight="1" x="350" y="1650">
+<entities>
+<entity energy="0" health="6" lastAction="noAction" lastActionParam="" lastActionResult="failed" maxEnergy="25" maxEnergyDisabled="25" maxHealth="6" name="a12" node="v252" roleName="Repairer" strength="0" team="A" visRange="1"/>
+</entities>
+</vertex>
+<vertex gridX="5" gridY="25" name="v253" weight="4" x="550" y="2550">
+<entities/>
+</vertex>
+<vertex gridX="21" gridY="4" name="v254" weight="3" x="2150" y="450">
+<entities/>
+</vertex>
+<vertex dominatorTeam="A" gridX="0" gridY="9" name="v255" weight="1" x="50" y="950">
+<entities>
+<entity energy="0" health="6" lastAction="noAction" lastActionParam="" lastActionResult="failed" maxEnergy="25" maxEnergyDisabled="25" maxHealth="6" name="a10" node="v255" roleName="Repairer" strength="0" team="A" visRange="1"/>
+</entities>
+</vertex>
+<vertex gridX="19" gridY="10" name="v256" weight="4" x="1950" y="1050">
+<entities/>
+</vertex>
+<vertex gridX="21" gridY="2" name="v257" weight="1" x="2150" y="250">
+<entities/>
+</vertex>
+<vertex gridX="23" gridY="7" name="v258" weight="2" x="2350" y="750">
+<entities/>
+</vertex>
+<vertex gridX="1" gridY="15" name="v259" weight="2" x="150" y="1550">
+<entities/>
+</vertex>
+<vertex gridX="16" gridY="24" name="v260" weight="3" x="1650" y="2450">
+<entities/>
+</vertex>
+<vertex gridX="20" gridY="1" name="v261" weight="1" x="2050" y="150">
+<entities/>
+</vertex>
+<vertex gridX="1" gridY="3" name="v262" weight="9" x="150" y="350">
+<entities/>
+</vertex>
+<vertex gridX="0" gridY="16" name="v263" weight="2" x="50" y="1650">
+<entities/>
+</vertex>
+<vertex gridX="12" gridY="14" name="v264" weight="4" x="1250" y="1450">
+<entities/>
+</vertex>
+<vertex dominatorTeam="B" gridX="6" gridY="15" name="v265" weight="1" x="650" y="1550">
+<entities>
+<entity energy="24" health="4" lastAction="noAction" lastActionParam="" lastActionResult="failed" maxEnergy="39" maxEnergyDisabled="37" maxHealth="4" name="b4" node="v265" roleName="Explorer" strength="0" team="B" visRange="2"/>
+</entities>
+</vertex>
+<vertex gridX="9" gridY="7" name="v266" weight="1" x="950" y="750">
+<entities/>
+</vertex>
+<vertex gridX="7" gridY="10" name="v267" weight="4" x="750" y="1050">
+<entities/>
+</vertex>
+<vertex gridX="14" gridY="13" name="v268" weight="3" x="1450" y="1350">
+<entities/>
+</vertex>
+<vertex gridX="18" gridY="15" name="v269" weight="1" x="1850" y="1550">
+<entities/>
+</vertex>
+<vertex gridX="25" gridY="0" name="v270" weight="9" x="2550" y="50">
+<entities/>
+</vertex>
+<vertex gridX="1" gridY="7" name="v271" weight="2" x="150" y="750">
+<entities/>
+</vertex>
+<vertex dominatorTeam="B" gridX="9" gridY="19" name="v272" weight="3" x="950" y="1950">
+<entities>
+<entity energy="15" health="1" lastAction="noAction" lastActionParam="" lastActionResult="failed" maxEnergy="30" maxEnergyDisabled="30" maxHealth="1" name="b20" node="v272" roleName="Sentinel" strength="0" team="B" visRange="3"/>
+</entities>
+</vertex>
+<vertex gridX="4" gridY="25" name="v273" weight="2" x="450" y="2550">
+<entities/>
+</vertex>
+<vertex gridX="12" gridY="10" name="v274" weight="4" x="1250" y="1050">
+<entities/>
+</vertex>
+<vertex gridX="2" gridY="11" name="v275" weight="5" x="250" y="1150">
+<entities/>
+</vertex>
+<vertex gridX="17" gridY="1" name="v276" weight="1" x="1750" y="150">
+<entities/>
+</vertex>
+<vertex dominatorTeam="A" gridX="1" gridY="10" name="v277" weight="1" x="150" y="1050">
+<entities/>
+</vertex>
+<vertex gridX="24" gridY="6" name="v278" weight="2" x="2450" y="650">
+<entities/>
+</vertex>
+<vertex dominatorTeam="A" gridX="13" gridY="17" name="v279" weight="3" x="1350" y="1750">
+<entities>
+<entity energy="14" health="3" lastAction="noAction" lastActionParam="" lastActionResult="failed" maxEnergy="20" maxEnergyDisabled="20" maxHealth="3" name="a13" node="v279" roleName="Saboteur" strength="3" team="A" visRange="1"/>
+<entity energy="10" health="0" lastAction="noAction" lastActionParam="" lastActionResult="failed" maxEnergy="20" maxEnergyDisabled="20" maxHealth="3" name="b13" node="v279" roleName="Saboteur" strength="3" team="B" visRange="1"/>
+</entities>
+</vertex>
+<vertex dominatorTeam="B" gridX="25" gridY="19" name="v280" weight="1" x="2550" y="1950">
+<entities>
+<entity energy="24" health="6" lastAction="noAction" lastActionParam="" lastActionResult="failed" maxEnergy="27" maxEnergyDisabled="26" maxHealth="6" name="b27" node="v280" roleName="Inspector" strength="0" team="B" visRange="1"/>
+<entity energy="9" health="6" lastAction="noAction" lastActionParam="" lastActionResult="failed" maxEnergy="25" maxEnergyDisabled="25" maxHealth="6" name="b24" node="v280" roleName="Inspector" strength="0" team="B" visRange="1"/>
+</entities>
+</vertex>
+<vertex gridX="5" gridY="9" name="v281" weight="4" x="550" y="950">
+<entities/>
+</vertex>
+<vertex gridX="13" gridY="22" name="v282" weight="2" x="1350" y="2250">
+<entities/>
+</vertex>
+<vertex gridX="1" gridY="2" name="v283" weight="9" x="150" y="250">
+<entities/>
+</vertex>
+<vertex gridX="12" gridY="20" name="v284" weight="5" x="1250" y="2050">
+<entities/>
+</vertex>
+<vertex dominatorTeam="A" gridX="17" gridY="18" name="v285" weight="1" x="1750" y="1850">
+<entities>
+<entity energy="0" health="6" lastAction="noAction" lastActionParam="" lastActionResult="failed" maxEnergy="25" maxEnergyDisabled="25" maxHealth="6" name="a11" node="v285" roleName="Repairer" strength="0" team="A" visRange="1"/>
+</entities>
+</vertex>
+<vertex gridX="7" gridY="7" name="v286" weight="4" x="750" y="750">
+<entities/>
+</vertex>
+<vertex dominatorTeam="B" gridX="24" gridY="23" name="v287" weight="2" x="2450" y="2350">
+<entities/>
+</vertex>
+<vertex gridX="2" gridY="21" name="v288" weight="1" x="250" y="2150">
+<entities/>
+</vertex>
+<vertex dominatorTeam="B" gridX="22" gridY="21" name="v289" weight="1" x="2250" y="2150">
+<entities/>
+</vertex>
+<vertex gridX="7" gridY="5" name="v290" weight="1" x="750" y="550">
+<entities/>
+</vertex>
+<vertex gridX="9" gridY="18" name="v291" weight="4" x="950" y="1850">
+<entities/>
+</vertex>
+<vertex gridX="19" gridY="24" name="v292" weight="5" x="1950" y="2450">
+<entities/>
+</vertex>
+<vertex gridX="21" gridY="9" name="v293" weight="4" x="2150" y="950">
+<entities/>
+</vertex>
+<vertex gridX="23" gridY="13" name="v294" weight="2" x="2350" y="1350">
+<entities/>
+</vertex>
+<vertex gridX="14" gridY="23" name="v295" weight="1" x="1450" y="2350">
+<entities/>
+</vertex>
+<vertex gridX="7" gridY="14" name="v296" weight="2" x="750" y="1450">
+<entities/>
+</vertex>
+<vertex gridX="6" gridY="20" name="v297" weight="2" x="650" y="2050">
+<entities/>
+</vertex>
+<vertex gridX="7" gridY="25" name="v298" weight="10" x="750" y="2550">
+<entities/>
+</vertex>
+<vertex gridX="10" gridY="23" name="v299" weight="3" x="1050" y="2350">
+<entities/>
+</vertex>
+<vertex gridX="21" gridY="14" name="v300" weight="2" x="2150" y="1450">
+<entities/>
+</vertex>
+<vertex gridX="23" gridY="6" name="v301" weight="4" x="2350" y="650">
+<entities/>
+</vertex>
+<vertex gridX="23" gridY="4" name="v302" weight="10" x="2350" y="450">
+<entities/>
+</vertex>
+<vertex gridX="2" gridY="24" name="v303" weight="4" x="250" y="2450">
+<entities/>
+</vertex>
+<vertex gridX="20" gridY="3" name="v304" weight="2" x="2050" y="350">
+<entities/>
+</vertex>
+<vertex gridX="2" gridY="8" name="v305" weight="1" x="250" y="850">
+<entities/>
+</vertex>
+<vertex dominatorTeam="B" gridX="22" gridY="19" name="v306" weight="1" x="2250" y="1950">
+<entities/>
+</vertex>
+<vertex gridX="20" gridY="2" name="v307" weight="1" x="2050" y="250">
+<entities/>
+</vertex>
+<vertex gridX="3" gridY="25" name="v308" weight="3" x="350" y="2550">
+<entities/>
+</vertex>
+<vertex gridX="17" gridY="0" name="v309" weight="1" x="1750" y="50">
+<entities/>
+</vertex>
+<vertex gridX="16" gridY="22" name="v310" weight="5" x="1650" y="2250">
+<entities/>
+</vertex>
+<vertex gridX="22" gridY="10" name="v311" weight="10" x="2250" y="1050">
+<entities/>
+</vertex>
+<vertex gridX="6" gridY="10" name="v312" weight="4" x="650" y="1050">
+<entities/>
+</vertex>
+<vertex gridX="15" gridY="6" name="v313" weight="1" x="1550" y="650">
+<entities/>
+</vertex>
+<vertex gridX="1" gridY="23" name="v314" weight="2" x="150" y="2350">
+<entities/>
+</vertex>
+<vertex gridX="0" gridY="25" name="v315" weight="10" x="50" y="2550">
+<entities/>
+</vertex>
+<vertex gridX="2" gridY="25" name="v316" weight="5" x="250" y="2550">
+<entities/>
+</vertex>
+<vertex gridX="24" gridY="12" name="v317" weight="2" x="2450" y="1250">
+<entities/>
+</vertex>
+<vertex gridX="5" gridY="11" name="v318" weight="3" x="550" y="1150">
+<entities/>
+</vertex>
+<vertex gridX="13" gridY="16" name="v319" weight="3" x="1350" y="1650">
+<entities/>
+</vertex>
+<vertex gridX="13" gridY="11" name="v320" weight="2" x="1350" y="1150">
+<entities/>
+</vertex>
+<vertex gridX="12" gridY="16" name="v321" weight="3" x="1250" y="1650">
+<entities/>
+</vertex>
+<vertex gridX="25" gridY="16" name="v322" weight="2" x="2550" y="1650">
+<entities/>
+</vertex>
+<vertex gridX="6" gridY="25" name="v323" weight="10" x="650" y="2550">
+<entities/>
+</vertex>
+<vertex gridX="18" gridY="25" name="v324" weight="10" x="1850" y="2550">
+<entities/>
+</vertex>
+<vertex dominatorTeam="A" gridX="1" gridY="5" name="v325" weight="8" x="150" y="550">
+<entities>
+<entity energy="33" health="4" lastAction="noAction" lastActionParam="" lastActionResult="failed" maxEnergy="39" maxEnergyDisabled="37" maxHealth="4" name="a1" node="v325" roleName="Explorer" strength="0" team="A" visRange="2"/>
+</entities>
+</vertex>
+<vertex gridX="23" gridY="0" name="v326" weight="10" x="2350" y="50">
+<entities/>
+</vertex>
+<vertex gridX="11" gridY="2" name="v327" weight="1" x="1150" y="250">
+<entities/>
+</vertex>
+<vertex gridX="1" gridY="18" name="v328" weight="1" x="150" y="1850">
+<entities/>
+</vertex>
+<vertex dominatorTeam="A" gridX="11" gridY="22" name="v329" weight="3" x="1150" y="2250">
+<entities/>
+</vertex>
+<vertex gridX="13" gridY="0" name="v330" weight="1" x="1350" y="50">
+<entities/>
+</vertex>
+<vertex dominatorTeam="A" gridX="18" gridY="13" name="v331" weight="2" x="1850" y="1350">
+<entities>
+<entity energy="12" health="3" lastAction="noAction" lastActionParam="" lastActionResult="failed" maxEnergy="20" maxEnergyDisabled="20" maxHealth="3" name="a14" node="v331" roleName="Saboteur" strength="3" team="A" visRange="1"/>
+<entity energy="10" health="0" lastAction="noAction" lastActionParam="" lastActionResult="failed" maxEnergy="20" maxEnergyDisabled="20" maxHealth="3" name="b15" node="v331" roleName="Saboteur" strength="3" team="B" visRange="1"/>
+</entities>
+</vertex>
+<vertex gridX="2" gridY="13" name="v332" weight="2" x="250" y="1350">
+<entities/>
+</vertex>
+<vertex dominatorTeam="A" gridX="3" gridY="18" name="v333" weight="1" x="350" y="1850">
+<entities>
+<entity energy="20" health="1" lastAction="noAction" lastActionParam="" lastActionResult="failed" maxEnergy="30" maxEnergyDisabled="30" maxHealth="1" name="a21" node="v333" roleName="Sentinel" strength="0" team="A" visRange="3"/>
+</entities>
+</vertex>
+<vertex gridX="25" gridY="5" name="v334" weight="1" x="2550" y="550">
+<entities/>
+</vertex>
+<vertex gridX="18" gridY="3" name="v335" weight="1" x="1850" y="350">
+<entities/>
+</vertex>
+<vertex gridX="16" gridY="11" name="v336" weight="4" x="1650" y="1150">
+<entities/>
+</vertex>
+<vertex gridX="7" gridY="0" name="v337" weight="1" x="750" y="50">
+<entities/>
+</vertex>
+<vertex gridX="22" gridY="5" name="v338" weight="4" x="2250" y="550">
+<entities/>
+</vertex>
+<vertex gridX="14" gridY="2" name="v339" weight="1" x="1450" y="250">
+<entities/>
+</vertex>
+<vertex gridX="4" gridY="3" name="v340" weight="1" x="450" y="350">
+<entities/>
+</vertex>
+<vertex gridX="0" gridY="12" name="v341" weight="1" x="50" y="1250">
+<entities/>
+</vertex>
+<vertex gridX="9" gridY="23" name="v342" weight="4" x="950" y="2350">
+<entities/>
+</vertex>
+<vertex gridX="25" gridY="12" name="v343" weight="1" x="2550" y="1250">
+<entities/>
+</vertex>
+<vertex gridX="11" gridY="13" name="v344" weight="3" x="1150" y="1350">
+<entities/>
+</vertex>
+<vertex gridX="0" gridY="20" name="v345" weight="1" x="50" y="2050">
+<entities/>
+</vertex>
+<vertex dominatorTeam="B" gridX="21" gridY="24" name="v346" weight="1" x="2150" y="2450">
+<entities/>
+</vertex>
+<vertex gridX="7" gridY="13" name="v347" weight="2" x="750" y="1350">
+<entities>
+<entity energy="4" health="0" lastAction="noAction" lastActionParam="" lastActionResult="failed" maxEnergy="20" maxEnergyDisabled="20" maxHealth="3" name="a15" node="v347" roleName="Saboteur" strength="3" team="A" visRange="1"/>
+<entity energy="6" health="0" lastAction="noAction" lastActionParam="" lastActionResult="failed" maxEnergy="20" maxEnergyDisabled="20" maxHealth="3" name="b14" node="v347" roleName="Saboteur" strength="3" team="B" visRange="1"/>
+</entities>
+</vertex>
+<vertex gridX="1" gridY="16" name="v348" weight="3" x="150" y="1650">
+<entities/>
+</vertex>
+<vertex gridX="19" gridY="17" name="v349" weight="1" x="1950" y="1750">
+<entities/>
+</vertex>
+<vertex gridX="14" gridY="25" name="v350" weight="1" x="1450" y="2550">
+<entities/>
+</vertex>
+<vertex gridX="16" gridY="14" name="v351" weight="5" x="1650" y="1450">
+<entities/>
+</vertex>
+<vertex gridX="13" gridY="5" name="v352" weight="1" x="1350" y="550">
+<entities/>
+</vertex>
+<vertex gridX="0" gridY="11" name="v353" weight="1" x="50" y="1150">
+<entities/>
+</vertex>
+<vertex gridX="16" gridY="7" name="v354" weight="1" x="1650" y="750">
+<entities/>
+</vertex>
+<vertex gridX="15" gridY="7" name="v355" weight="1" x="1550" y="750">
+<entities/>
+</vertex>
+<vertex dominatorTeam="B" gridX="3" gridY="8" name="v356" weight="3" x="350" y="850">
+<entities>
+<entity energy="17" health="6" lastAction="noAction" lastActionParam="" lastActionResult="failed" maxEnergy="27" maxEnergyDisabled="26" maxHealth="6" name="b23" node="v356" roleName="Inspector" strength="0" team="B" visRange="1"/>
+</entities>
+</vertex>
+<vertex gridX="9" gridY="21" name="v357" weight="6" x="950" y="2150">
+<entities/>
+</vertex>
+<vertex gridX="20" gridY="8" name="v358" weight="4" x="2050" y="850">
+<entities/>
+</vertex>
+<vertex gridX="11" gridY="15" name="v359" weight="4" x="1150" y="1550">
+<entities/>
+</vertex>
+<vertex gridX="2" gridY="0" name="v360" weight="10" x="250" y="50">
+<entities/>
+</vertex>
+<vertex gridX="16" gridY="12" name="v361" weight="5" x="1650" y="1250">
+<entities/>
+</vertex>
+<vertex dominatorTeam="B" gridX="17" gridY="10" name="v362" weight="4" x="1750" y="1050">
+<entities/>
+</vertex>
+<vertex gridX="9" gridY="22" name="v363" weight="5" x="950" y="2250">
+<entities/>
+</vertex>
+<vertex gridX="17" gridY="19" name="v364" weight="1" x="1750" y="1950">
+<entities/>
+</vertex>
+<vertex dominatorTeam="B" gridX="22" gridY="25" name="v365" weight="3" x="2250" y="2550">
+<entities/>
+</vertex>
+<vertex gridX="0" gridY="1" name="v366" weight="9" x="50" y="150">
+<entities/>
+</vertex>
+<vertex gridX="7" gridY="2" name="v367" weight="1" x="750" y="250">
+<entities/>
+</vertex>
+<vertex gridX="25" gridY="1" name="v368" weight="9" x="2550" y="150">
+<entities/>
+</vertex>
+<vertex gridX="4" gridY="23" name="v369" weight="1" x="450" y="2350">
+<entities/>
+</vertex>
+<vertex gridX="4" gridY="11" name="v370" weight="6" x="450" y="1150">
+<entities/>
+</vertex>
+<vertex dominatorTeam="B" gridX="0" gridY="22" name="v371" weight="5" x="50" y="2250">
+<entities/>
+</vertex>
+<vertex dominatorTeam="B" gridX="16" gridY="8" name="v372" weight="1" x="1650" y="850">
+<entities>
+<entity energy="20" health="4" lastAction="noAction" lastActionParam="" lastActionResult="failed" maxEnergy="37" maxEnergyDisabled="36" maxHealth="4" name="b3" node="v372" roleName="Explorer" strength="0" team="B" visRange="2"/>
+</entities>
+</vertex>
+<vertex gridX="22" gridY="1" name="v373" weight="7" x="2250" y="150">
+<entities/>
+</vertex>
+<vertex gridX="3" gridY="15" name="v374" weight="1" x="350" y="1550">
+<entities/>
+</vertex>
+<vertex gridX="22" gridY="14" name="v375" weight="2" x="2250" y="1450">
+<entities/>
+</vertex>
+<vertex gridX="19" gridY="0" name="v376" weight="1" x="1950" y="50">
+<entities/>
+</vertex>
+<vertex gridX="12" gridY="17" name="v377" weight="3" x="1250" y="1750">
+<entities/>
+</vertex>
+<vertex dominatorTeam="B" gridX="15" gridY="9" name="v378" weight="2" x="1550" y="950">
+<entities/>
+</vertex>
+<vertex dominatorTeam="B" gridX="4" gridY="16" name="v379" weight="1" x="450" y="1650">
+<entities>
+<entity energy="3" health="1" lastAction="noAction" lastActionParam="" lastActionResult="failed" maxEnergy="30" maxEnergyDisabled="30" maxHealth="1" name="b17" node="v379" roleName="Sentinel" strength="0" team="B" visRange="3"/>
+</entities>
+</vertex>
+<vertex gridX="13" gridY="23" name="v380" weight="1" x="1350" y="2350">
+<entities/>
+</vertex>
+<vertex gridX="4" gridY="12" name="v381" weight="3" x="450" y="1250">
+<entities/>
+</vertex>
+<vertex gridX="20" gridY="16" name="v382" weight="1" x="2050" y="1650">
+<entities/>
+</vertex>
+<vertex gridX="22" gridY="2" name="v383" weight="4" x="2250" y="250">
+<entities/>
+</vertex>
+<vertex gridX="3" gridY="9" name="v384" weight="1" x="350" y="950">
+<entities/>
+</vertex>
+<vertex dominatorTeam="B" gridX="23" gridY="22" name="v385" weight="1" x="2350" y="2250">
+<entities/>
+</vertex>
+<vertex gridX="6" gridY="19" name="v386" weight="1" x="650" y="1950">
+<entities/>
+</vertex>
+<vertex dominatorTeam="B" gridX="14" gridY="11" name="v387" weight="3" x="1450" y="1150">
+<entities>
+<entity energy="37" health="4" lastAction="noAction" lastActionParam="" lastActionResult="failed" maxEnergy="37" maxEnergyDisabled="36" maxHealth="4" name="b2" node="v387" roleName="Explorer" strength="0" team="B" visRange="2"/>
+</entities>
+</vertex>
+<vertex dominatorTeam="B" gridX="25" gridY="25" name="v388" weight="10" x="2550" y="2550">
+<entities/>
+</vertex>
+<vertex gridX="23" gridY="12" name="v389" weight="4" x="2350" y="1250">
+<entities/>
+</vertex>
+<vertex gridX="21" gridY="15" name="v390" weight="1" x="2150" y="1550">
+<entities/>
+</vertex>
+<vertex dominatorTeam="B" gridX="25" gridY="20" name="v391" weight="1" x="2550" y="2050">
+<entities/>
+</vertex>
+<vertex gridX="16" gridY="21" name="v392" weight="6" x="1650" y="2150">
+<entities/>
+</vertex>
+<vertex gridX="2" gridY="6" name="v393" weight="4" x="250" y="650">
+<entities/>
+</vertex>
+<vertex gridX="10" gridY="24" name="v394" weight="3" x="1050" y="2450">
+<entities/>
+</vertex>
+<vertex gridX="2" gridY="7" name="v395" weight="2" x="250" y="750">
+<entities/>
+</vertex>
+<vertex dominatorTeam="B" gridX="24" gridY="18" name="v396" weight="1" x="2450" y="1850">
+<entities/>
+</vertex>
+<vertex gridX="3" gridY="0" name="v397" weight="5" x="350" y="50">
+<entities/>
+</vertex>
+<vertex dominatorTeam="B" gridX="5" gridY="13" name="v398" weight="2" x="550" y="1350">
+<entities>
+<entity energy="8" health="4" lastAction="noAction" lastActionParam="" lastActionResult="failed" maxEnergy="39" maxEnergyDisabled="37" maxHealth="4" name="b5" node="v398" roleName="Explorer" strength="0" team="B" visRange="2"/>
+</entities>
+</vertex>
+<vertex gridX="13" gridY="10" name="v399" weight="4" x="1350" y="1050">
+<entities/>
+</vertex>
+<vertex dominatorTeam="B" gridX="24" gridY="21" name="v400" weight="2" x="2450" y="2150">
+<entities/>
+</vertex>
+<vertex gridX="2" gridY="15" name="v401" weight="2" x="250" y="1550">
+<entities/>
+</vertex>
+<vertex gridX="14" gridY="19" name="v402" weight="6" x="1450" y="1950">
+<entities/>
+</vertex>
+<vertex gridX="4" gridY="19" name="v403" weight="1" x="450" y="1950">
+<entities/>
+</vertex>
+<vertex dominatorTeam="B" gridX="22" gridY="18" name="v404" weight="1" x="2250" y="1850">
+<entities/>
+</vertex>
+<vertex gridX="8" gridY="15" name="v405" weight="2" x="850" y="1550">
+<entities/>
+</vertex>
+<vertex gridX="11" gridY="20" name="v406" weight="5" x="1150" y="2050">
+<entities/>
+</vertex>
+<vertex gridX="6" gridY="2" name="v407" weight="1" x="650" y="250">
+<entities/>
+</vertex>
+<vertex gridX="24" gridY="16" name="v408" weight="3" x="2450" y="1650">
+<entities/>
+</vertex>
+<vertex gridX="17" gridY="12" name="v409" weight="6" x="1750" y="1250">
+<entities/>
+</vertex>
+<vertex gridX="25" gridY="9" name="v410" weight="1" x="2550" y="950">
+<entities/>
+</vertex>
+<vertex gridX="5" gridY="8" name="v411" weight="4" x="550" y="850">
+<entities/>
+</vertex>
+<vertex gridX="1" gridY="6" name="v412" weight="2" x="150" y="650">
+<entities/>
+</vertex>
+<vertex dominatorTeam="A" gridX="18" gridY="17" name="v413" weight="1" x="1850" y="1750">
+<entities/>
+</vertex>
+<vertex gridX="16" gridY="10" name="v414" weight="2" x="1650" y="1050">
+<entities/>
+</vertex>
+<vertex gridX="10" gridY="22" name="v415" weight="4" x="1050" y="2250">
+<entities/>
+</vertex>
+<vertex dominatorTeam="B" gridX="19" gridY="11" name="v416" weight="3" x="1950" y="1150">
+<entities/>
+</vertex>
+<vertex dominatorTeam="B" gridX="20" gridY="17" name="v417" weight="1" x="2050" y="1750">
+<entities>
+<entity energy="6" health="1" lastAction="noAction" lastActionParam="" lastActionResult="failed" maxEnergy="30" maxEnergyDisabled="30" maxHealth="1" name="b21" node="v417" roleName="Sentinel" strength="0" team="B" visRange="3"/>
+</entities>
+</vertex>
+<vertex gridX="4" gridY="9" name="v418" weight="4" x="450" y="950">
+<entities/>
+</vertex>
+<vertex gridX="17" gridY="25" name="v419" weight="8" x="1750" y="2550">
+<entities/>
+</vertex>
+<vertex dominatorTeam="B" gridX="24" gridY="19" name="v420" weight="1" x="2450" y="1950">
+<entities/>
+</vertex>
+<vertex gridX="10" gridY="5" name="v421" weight="1" x="1050" y="550">
+<entities/>
+</vertex>
+<vertex dominatorTeam="B" gridX="7" gridY="16" name="v422" weight="1" x="750" y="1650">
+<entities/>
+</vertex>
+<vertex gridX="21" gridY="3" name="v423" weight="1" x="2150" y="350">
+<entities/>
+</vertex>
+<vertex gridX="25" gridY="6" name="v424" weight="1" x="2550" y="650">
+<entities/>
+</vertex>
+<vertex gridX="14" gridY="0" name="v425" weight="1" x="1450" y="50">
+<entities/>
+</vertex>
+<vertex gridX="17" gridY="21" name="v426" weight="4" x="1750" y="2150">
+<entities/>
+</vertex>
+<vertex gridX="25" gridY="2" name="v427" weight="9" x="2550" y="250">
+<entities/>
+</vertex>
+<vertex gridX="15" gridY="5" name="v428" weight="1" x="1550" y="550">
+<entities/>
+</vertex>
+<vertex gridX="3" gridY="21" name="v429" weight="1" x="350" y="2150">
+<entities/>
+</vertex>
+<vertex dominatorTeam="A" gridX="12" gridY="22" name="v430" weight="2" x="1250" y="2250">
+<entities>
+<entity energy="0" health="6" lastAction="noAction" lastActionParam="" lastActionResult="failed" maxEnergy="25" maxEnergyDisabled="25" maxHealth="6" name="a9" node="v430" roleName="Repairer" strength="0" team="A" visRange="1"/>
+</entities>
+</vertex>
+<vertex dominatorTeam="B" gridX="0" gridY="21" name="v431" weight="10" x="50" y="2150">
+<entities/>
+</vertex>
+<vertex dominatorTeam="B" gridX="21" gridY="25" name="v432" weight="2" x="2150" y="2550">
+<entities/>
+</vertex>
+<vertex gridX="18" gridY="14" name="v433" weight="2" x="1850" y="1450">
+<entities/>
+</vertex>
+<vertex gridX="15" gridY="2" name="v434" weight="1" x="1550" y="250">
+<entities/>
+</vertex>
+<vertex gridX="18" gridY="6" name="v435" weight="2" x="1850" y="650">
+<entities/>
+</vertex>
+<vertex gridX="3" gridY="23" name="v436" weight="1" x="350" y="2350">
+<entities/>
+</vertex>
+<vertex gridX="20" gridY="7" name="v437" weight="5" x="2050" y="750">
+<entities/>
+</vertex>
+<vertex gridX="7" gridY="17" name="v438" weight="1" x="750" y="1750">
+<entities/>
+</vertex>
+<vertex dominatorTeam="B" gridX="8" gridY="20" name="v439" weight="3" x="850" y="2050">
+<entities/>
+</vertex>
+<vertex gridX="19" gridY="2" name="v440" weight="1" x="1950" y="250">
+<entities/>
+</vertex>
+<vertex dominatorTeam="B" gridX="22" gridY="22" name="v441" weight="1" x="2250" y="2250">
+<entities/>
+</vertex>
+<vertex gridX="5" gridY="0" name="v442" weight="5" x="550" y="50">
+<entities/>
+</vertex>
+<vertex gridX="24" gridY="5" name="v443" weight="8" x="2450" y="550">
+<entities/>
+</vertex>
+<vertex gridX="16" gridY="17" name="v444" weight="10" x="1650" y="1750">
+<entities/>
+</vertex>
+<vertex dominatorTeam="B" gridX="25" gridY="24" name="v445" weight="2" x="2550" y="2450">
+<entities/>
+</vertex>
+<vertex gridX="22" gridY="11" name="v446" weight="5" x="2250" y="1150">
+<entities/>
+</vertex>
+<vertex gridX="11" gridY="21" name="v447" weight="5" x="1150" y="2150">
+<entities/>
+</vertex>
+<vertex gridX="11" gridY="8" name="v448" weight="4" x="1150" y="850">
+<entities/>
+</vertex>
+<vertex dominatorTeam="B" gridX="8" gridY="17" name="v449" weight="1" x="850" y="1750">
+<entities/>
+</vertex>
+<vertex gridX="19" gridY="19" name="v450" weight="1" x="1950" y="1950">
+<entities/>
+</vertex>
+<vertex gridX="16" gridY="18" name="v451" weight="4" x="1650" y="1850">
+<entities/>
+</vertex>
+<vertex gridX="21" gridY="5" name="v452" weight="3" x="2150" y="550">
+<entities/>
+</vertex>
+<vertex gridX="4" gridY="15" name="v453" weight="1" x="450" y="1550">
+<entities/>
+</vertex>
+<vertex gridX="10" gridY="11" name="v454" weight="2" x="1050" y="1150">
+<entities/>
+</vertex>
+<vertex dominatorTeam="B" gridX="21" gridY="18" name="v455" weight="1" x="2150" y="1850">
+<entities>
+<entity energy="35" health="4" lastAction="noAction" lastActionParam="" lastActionResult="failed" maxEnergy="35" maxEnergyDisabled="35" maxHealth="4" name="b1" node="v455" roleName="Explorer" strength="0" team="B" visRange="2"/>
+</entities>
+</vertex>
+<vertex gridX="13" gridY="3" name="v456" weight="1" x="1350" y="350">
+<entities/>
+</vertex>
+<vertex gridX="9" gridY="17" name="v457" weight="10" x="950" y="1750">
+<entities/>
+</vertex>
+<vertex gridX="22" gridY="9" name="v458" weight="1" x="2250" y="950">
+<entities/>
+</vertex>
+<vertex gridX="1" gridY="20" name="v459" weight="1" x="150" y="2050">
+<entities/>
+</vertex>
+<vertex gridX="22" gridY="16" name="v460" weight="1" x="2250" y="1650">
+<entities/>
+</vertex>
+<vertex gridX="8" gridY="9" name="v461" weight="2" x="850" y="950">
+<entities/>
+</vertex>
+<vertex gridX="15" gridY="21" name="v462" weight="4" x="1550" y="2150">
+<entities/>
+</vertex>
+<vertex gridX="12" gridY="8" name="v463" weight="5" x="1250" y="850">
+<entities/>
+</vertex>
+<vertex gridX="2" gridY="23" name="v464" weight="1" x="250" y="2350">
+<entities/>
+</vertex>
+<vertex gridX="16" gridY="19" name="v465" weight="3" x="1650" y="1950">
+<entities/>
+</vertex>
+<vertex dominatorTeam="A" gridX="25" gridY="14" name="v466" weight="2" x="2550" y="1450">
+<entities>
+<entity energy="22" health="6" lastAction="noAction" lastActionParam="" lastActionResult="failed" maxEnergy="27" maxEnergyDisabled="26" maxHealth="6" name="a26" node="v466" roleName="Inspector" strength="0" team="A" visRange="1"/>
+</entities>
+</vertex>
+<vertex gridX="13" gridY="20" name="v467" weight="5" x="1350" y="2050">
+<entities/>
+</vertex>
+<vertex gridX="7" gridY="11" name="v468" weight="4" x="750" y="1150">
+<entities/>
+</vertex>
+<vertex dominatorTeam="B" gridX="18" gridY="11" name="v469" weight="4" x="1850" y="1150">
+<entities>
+<entity energy="0" health="6" lastAction="noAction" lastActionParam="" lastActionResult="failed" maxEnergy="25" maxEnergyDisabled="25" maxHealth="6" name="b7" node="v469" roleName="Repairer" strength="0" team="B" visRange="1"/>
+</entities>
+</vertex>
+<vertex dominatorTeam="B" gridX="23" gridY="24" name="v470" weight="4" x="2350" y="2450">
+<entities/>
+</vertex>
+<vertex gridX="22" gridY="0" name="v471" weight="5" x="2250" y="50">
+<entities/>
+</vertex>
+<vertex dominatorTeam="A" gridX="20" gridY="24" name="v472" weight="4" x="2050" y="2450">
+<entities/>
+</vertex>
+<vertex gridX="23" gridY="5" name="v473" weight="6" x="2350" y="550">
+<entities/>
+</vertex>
+<vertex gridX="18" gridY="2" name="v474" weight="1" x="1850" y="250">
+<entities/>
+</vertex>
+<vertex gridX="15" gridY="22" name="v475" weight="4" x="1550" y="2250">
+<entities/>
+</vertex>
+<vertex gridX="4" gridY="5" name="v476" weight="3" x="450" y="550">
+<entities/>
+</vertex>
+<vertex gridX="5" gridY="18" name="v477" weight="1" x="550" y="1850">
+<entities/>
+</vertex>
+<vertex dominatorTeam="B" gridX="23" gridY="25" name="v478" weight="5" x="2350" y="2550">
+<entities/>
+</vertex>
+<vertex gridX="4" gridY="14" name="v479" weight="2" x="450" y="1450">
+<entities/>
+</vertex>
+<vertex gridX="5" gridY="7" name="v480" weight="5" x="550" y="750">
+<entities/>
+</vertex>
+<vertex gridX="16" gridY="1" name="v481" weight="1" x="1650" y="150">
+<entities/>
+</vertex>
+<vertex gridX="24" gridY="17" name="v482" weight="10" x="2450" y="1750">
+<entities/>
+</vertex>
+<vertex gridX="9" gridY="12" name="v483" weight="5" x="950" y="1250">
+<entities/>
+</vertex>
+<vertex dominatorTeam="A" gridX="17" gridY="16" name="v484" weight="1" x="1750" y="1650">
+<entities>
+<entity energy="16" health="1" lastAction="noAction" lastActionParam="" lastActionResult="failed" maxEnergy="32" maxEnergyDisabled="31" maxHealth="1" name="a22" node="v484" roleName="Sentinel" strength="0" team="A" visRange="3"/>
+</entities>
+</vertex>
+<vertex gridX="8" gridY="14" name="v485" weight="6" x="850" y="1450">
+<entities/>
+</vertex>
+<vertex gridX="8" gridY="3" name="v486" weight="1" x="850" y="350">
+<entities/>
+</vertex>
+<vertex gridX="6" gridY="6" name="v487" weight="3" x="650" y="650">
+<entities/>
+</vertex>
+<vertex gridX="9" gridY="20" name="v488" weight="5" x="950" y="2050">
+<entities/>
+</vertex>
+<vertex gridX="8" gridY="2" name="v489" weight="1" x="850" y="250">
+<entities/>
+</vertex>
+<vertex dominatorTeam="A" gridX="18" gridY="16" name="v490" weight="1" x="1850" y="1650">
+<entities>
+<entity energy="6" health="1" lastAction="noAction" lastActionParam="" lastActionResult="failed" maxEnergy="30" maxEnergyDisabled="30" maxHealth="1" name="a20" node="v490" roleName="Sentinel" strength="0" team="A" visRange="3"/>
+</entities>
+</vertex>
+<vertex gridX="25" gridY="10" name="v491" weight="1" x="2550" y="1050">
+<entities/>
+</vertex>
+<vertex gridX="9" gridY="10" name="v492" weight="2" x="950" y="1050">
+<entities/>
+</vertex>
+<vertex gridX="5" gridY="15" name="v493" weight="1" x="550" y="1550">
+<entities/>
+</vertex>
+<vertex gridX="1" gridY="19" name="v494" weight="1" x="150" y="1950">
+<entities/>
+</vertex>
+<vertex gridX="19" gridY="6" name="v495" weight="3" x="1950" y="650">
+<entities/>
+</vertex>
+<vertex dominatorTeam="B" gridX="23" gridY="17" name="v496" weight="3" x="2350" y="1750">
+<entities>
+<entity energy="0" health="6" lastAction="noAction" lastActionParam="" lastActionResult="failed" maxEnergy="25" maxEnergyDisabled="25" maxHealth="6" name="b12" node="v496" roleName="Repairer" strength="0" team="B" visRange="1"/>
+<entity energy="23" health="6" lastAction="noAction" lastActionParam="" lastActionResult="failed" maxEnergy="29" maxEnergyDisabled="27" maxHealth="6" name="b25" node="v496" roleName="Inspector" strength="0" team="B" visRange="1"/>
+</entities>
+</vertex>
+<vertex dominatorTeam="A" gridX="8" gridY="24" name="v497" weight="6" x="850" y="2450">
+<entities>
+<entity energy="25" health="6" lastAction="noAction" lastActionParam="" lastActionResult="failed" maxEnergy="25" maxEnergyDisabled="25" maxHealth="6" name="a28" node="v497" roleName="Inspector" strength="0" team="A" visRange="1"/>
+<entity energy="10" health="6" lastAction="noAction" lastActionParam="" lastActionResult="failed" maxEnergy="27" maxEnergyDisabled="26" maxHealth="6" name="a27" node="v497" roleName="Inspector" strength="0" team="A" visRange="1"/>
+</entities>
+</vertex>
+<vertex gridX="15" gridY="11" name="v498" weight="2" x="1550" y="1150">
+<entities/>
+</vertex>
+<vertex gridX="24" gridY="9" name="v499" weight="1" x="2450" y="950">
+<entities/>
+</vertex>
+</vertices>
+<edges>
+<edge node1="v13" node2="v174" weight="5"/>
+<edge node1="v255" node2="v246" weight="8"/>
+<edge node1="v228" node2="v43" weight="1"/>
+<edge node1="v333" node2="v494" weight="5"/>
+<edge node1="v494" node2="v288" weight="2"/>
+<edge node1="v13" node2="v99" weight="7"/>
+<edge node1="v411" node2="v113" weight="4"/>
+<edge node1="v218" node2="v327" weight="4"/>
+<edge node1="v226" node2="v186" weight="1"/>
+<edge node1="v271" node2="v255" weight="4"/>
+<edge node1="v476" node2="v487" weight="4"/>
+<edge node1="v29" node2="v239" weight="4"/>
+<edge node1="v129" node2="v347" weight="2"/>
+<edge node1="v129" node2="v398" weight="5"/>
+<edge node1="v327" node2="v99" weight="1"/>
+<edge node1="v14" node2="v30" weight="6"/>
+<edge node1="v448" node2="v274" weight="5"/>
+<edge node1="v103" node2="v403" weight="8"/>
+<edge node1="v103" node2="v369" weight="7"/>
+<edge node1="v360" node2="v283" weight="7"/>
+<edge node1="v297" node2="v249" weight="4"/>
+<edge node1="v72" node2="v182" weight="9"/>
+<edge node1="v487" node2="v167" weight="1"/>
+<edge node1="v87" node2="v494" weight="4"/>
+<edge node1="v87" node2="v429" weight="4"/>
+<edge node1="v386" node2="v226" weight="6"/>
+<edge node1="v332" node2="v401" weight="5"/>
+<edge node1="v290" node2="v63" weight="5"/>
+<edge node1="v333" node2="v328" weight="5"/>
+<edge node1="v333" node2="v252" weight="8"/>
+<edge node1="v137" node2="v277" weight="1"/>
+<edge node1="v61" node2="v263" weight="2"/>
+<edge node1="v138" node2="v218" weight="2"/>
+<edge node1="v13" node2="v327" weight="5"/>
+<edge node1="v411" node2="v356" weight="8"/>
+<edge node1="v463" node2="v274" weight="8"/>
+<edge node1="v384" node2="v120" weight="7"/>
+<edge node1="v397" node2="v442" weight="4"/>
+<edge node1="v23" node2="v327" weight="7"/>
+<edge node1="v227" node2="v360" weight="1"/>
+<edge node1="v227" node2="v152" weight="6"/>
+<edge node1="v20" node2="v360" weight="6"/>
+<edge node1="v134" node2="v191" weight="7"/>
+<edge node1="v88" node2="v30" weight="4"/>
+<edge node1="v172" node2="v14" weight="9"/>
+<edge node1="v57" node2="v483" weight="6"/>
+<edge node1="v118" node2="v422" weight="9"/>
+<edge node1="v103" node2="v429" weight="1"/>
+<edge node1="v221" node2="v125" weight="6"/>
+<edge node1="v219" node2="v199" weight="5"/>
+<edge node1="v94" node2="v186" weight="9"/>
+<edge node1="v72" node2="v454" weight="8"/>
+<edge node1="v8" node2="v113" weight="1"/>
+<edge node1="v487" node2="v142" weight="7"/>
+<edge node1="v407" node2="v142" weight="6"/>
+<edge node1="v347" node2="v398" weight="1"/>
+<edge node1="v332" node2="v221" weight="3"/>
+<edge node1="v332" node2="v125" weight="2"/>
+<edge node1="v480" node2="v487" weight="8"/>
+<edge node1="v44" node2="v226" weight="1"/>
+<edge node1="v485" node2="v29" weight="7"/>
+<edge node1="v353" node2="v137" weight="3"/>
+<edge node1="v353" node2="v277" weight="9"/>
+<edge node1="v148" node2="v118" weight="7"/>
+<edge node1="v148" node2="v422" weight="4"/>
+<edge node1="v401" node2="v348" weight="5"/>
+<edge node1="v290" node2="v128" weight="3"/>
+<edge node1="v290" node2="v142" weight="7"/>
+<edge node1="v333" node2="v403" weight="8"/>
+<edge node1="v333" node2="v189" weight="6"/>
+<edge node1="v150" node2="v158" weight="2"/>
+<edge node1="v217" node2="v461" weight="1"/>
+<edge node1="v137" node2="v275" weight="4"/>
+<edge node1="v459" node2="v288" weight="8"/>
+<edge node1="v28" node2="v92" weight="2"/>
+<edge node1="v328" node2="v22" weight="3"/>
+<edge node1="v318" node2="v381" weight="2"/>
+<edge node1="v49" node2="v116" weight="8"/>
+<edge node1="v128" node2="v266" weight="8"/>
+<edge node1="v196" node2="v314" weight="3"/>
+<edge node1="v61" node2="v259" weight="9"/>
+<edge node1="v377" node2="v220" weight="9"/>
+<edge node1="v493" node2="v479" weight="9"/>
+<edge node1="v231" node2="v152" weight="1"/>
+<edge node1="v494" node2="v345" weight="2"/>
+<edge node1="v212" node2="v345" weight="8"/>
+<edge node1="v288" node2="v242" weight="7"/>
+<edge node1="v153" node2="v97" weight="7"/>
+<edge node1="v153" node2="v239" weight="6"/>
+<edge node1="v153" node2="v42" weight="4"/>
+<edge node1="v153" node2="v233" weight="1"/>
+<edge node1="v75" node2="v142" weight="1"/>
+<edge node1="v357" node2="v171" weight="6"/>
+<edge node1="v100" node2="v99" weight="5"/>
+<edge node1="v411" node2="v235" weight="9"/>
+<edge node1="v411" node2="v140" weight="5"/>
+<edge node1="v438" node2="v94" weight="1"/>
+<edge node1="v438" node2="v186" weight="6"/>
+<edge node1="v81" node2="v272" weight="7"/>
+<edge node1="v81" node2="v82" weight="2"/>
+<edge node1="v16" node2="v23" weight="9"/>
+<edge node1="v16" node2="v327" weight="9"/>
+<edge node1="v16" node2="v15" weight="3"/>
+<edge node1="v265" node2="v296" weight="7"/>
+<edge node1="v265" node2="v118" weight="6"/>
+<edge node1="v265" node2="v422" weight="5"/>
+<edge node1="v271" node2="v393" weight="5"/>
+<edge node1="v271" node2="v305" weight="2"/>
+<edge node1="v271" node2="v246" weight="5"/>
+<edge node1="v476" node2="v167" weight="3"/>
+<edge node1="v26" node2="v97" weight="3"/>
+<edge node1="v26" node2="v220" weight="1"/>
+<edge node1="v275" node2="v219" weight="4"/>
+<edge node1="v29" node2="v116" weight="2"/>
+<edge node1="v47" node2="v367" weight="7"/>
+<edge node1="v405" node2="v296" weight="4"/>
+<edge node1="v405" node2="v233" weight="2"/>
+<edge node1="v384" node2="v305" weight="6"/>
+<edge node1="v394" node2="v342" weight="3"/>
+<edge node1="v129" node2="v199" weight="6"/>
+<edge node1="v19" node2="v363" weight="2"/>
+<edge node1="v19" node2="v62" weight="9"/>
+<edge node1="v415" node2="v447" weight="8"/>
+<edge node1="v102" node2="v101" weight="9"/>
+<edge node1="v39" node2="v468" weight="1"/>
+<edge node1="v397" node2="v11" weight="6"/>
+<edge node1="v340" node2="v167" weight="9"/>
+<edge node1="v340" node2="v41" weight="5"/>
+<edge node1="v23" node2="v185" weight="6"/>
+<edge node1="v227" node2="v10" weight="5"/>
+<edge node1="v235" node2="v267" weight="8"/>
+<edge node1="v235" node2="v199" weight="4"/>
+<edge node1="v2" node2="v180" weight="2"/>
+<edge node1="v115" node2="v448" weight="4"/>
+<edge node1="v436" node2="v194" weight="8"/>
+<edge node1="v134" node2="v262" weight="5"/>
+<edge node1="v134" node2="v325" weight="4"/>
+<edge node1="v145" node2="v11" weight="8"/>
+<edge node1="v262" node2="v191" weight="7"/>
+<edge node1="v262" node2="v152" weight="9"/>
+<edge node1="v181" node2="v72" weight="3"/>
+<edge node1="v116" node2="v468" weight="9"/>
+<edge node1="v449" node2="v422" weight="1"/>
+<edge node1="v492" node2="v461" weight="1"/>
+<edge node1="v492" node2="v72" weight="9"/>
+<edge node1="v492" node2="v454" weight="3"/>
+<edge node1="v57" node2="v127" weight="2"/>
+<edge node1="v14" node2="v430" weight="8"/>
+<edge node1="v489" node2="v99" weight="2"/>
+<edge node1="v118" node2="v453" weight="9"/>
+<edge node1="v406" node2="v111" weight="7"/>
+<edge node1="v448" node2="v72" weight="4"/>
+<edge node1="v103" node2="v67" weight="7"/>
+<edge node1="v447" node2="v171" weight="1"/>
+<edge node1="v53" node2="v239" weight="3"/>
+<edge node1="v360" node2="v10" weight="7"/>
+<edge node1="v221" node2="v183" weight="9"/>
+<edge node1="v253" node2="v228" weight="9"/>
+<edge node1="v464" node2="v242" weight="2"/>
+<edge node1="v111" node2="v329" weight="6"/>
+<edge node1="v299" node2="v329" weight="8"/>
+<edge node1="v488" node2="v249" weight="9"/>
+<edge node1="v158" node2="v407" weight="2"/>
+<edge node1="v219" node2="v370" weight="1"/>
+<edge node1="v381" node2="v398" weight="5"/>
+<edge node1="v94" node2="v272" weight="1"/>
+<edge node1="v286" node2="v487" weight="6"/>
+<edge node1="v15" node2="v486" weight="3"/>
+<edge node1="v274" node2="v182" weight="8"/>
+<edge node1="v8" node2="v393" weight="9"/>
+<edge node1="v8" node2="v135" weight="9"/>
+<edge node1="v314" node2="v303" weight="8"/>
+<edge node1="v314" node2="v200" weight="1"/>
+<edge node1="v393" node2="v113" weight="7"/>
+<edge node1="v393" node2="v325" weight="4"/>
+<edge node1="v104" node2="v186" weight="3"/>
+<edge node1="v272" node2="v439" weight="4"/>
+<edge node1="v199" node2="v370" weight="4"/>
+<edge node1="v185" node2="v32" weight="5"/>
+<edge node1="v252" node2="v189" weight="2"/>
+<edge node1="v11" node2="v41" weight="4"/>
+<edge node1="v146" node2="v232" weight="8"/>
+<edge node1="v114" node2="v348" weight="1"/>
+<edge node1="v305" node2="v120" weight="1"/>
+<edge node1="v303" node2="v308" weight="5"/>
+<edge node1="v303" node2="v6" weight="2"/>
+<edge node1="v277" node2="v255" weight="5"/>
+<edge node1="v152" node2="v325" weight="7"/>
+<edge node1="v174" node2="v99" weight="7"/>
+<edge node1="v403" node2="v477" weight="1"/>
+<edge node1="v189" node2="v348" weight="3"/>
+<edge node1="v369" node2="v242" weight="6"/>
+<edge node1="v82" node2="v171" weight="4"/>
+<edge node1="v87" node2="v333" weight="9"/>
+<edge node1="v87" node2="v403" weight="6"/>
+<edge node1="v386" node2="v297" weight="3"/>
+<edge node1="v386" node2="v186" weight="5"/>
+<edge node1="v315" node2="v6" weight="6"/>
+<edge node1="v222" node2="v265" weight="9"/>
+<edge node1="v222" node2="v296" weight="9"/>
+<edge node1="v480" node2="v411" weight="9"/>
+<edge node1="v480" node2="v140" weight="5"/>
+<edge node1="v3" node2="v415" weight="6"/>
+<edge node1="v3" node2="v447" weight="7"/>
+<edge node1="v89" node2="v246" weight="7"/>
+<edge node1="v70" node2="v421" weight="7"/>
+<edge node1="v70" node2="v16" weight="2"/>
+<edge node1="v70" node2="v23" weight="8"/>
+<edge node1="v96" node2="v314" weight="1"/>
+<edge node1="v96" node2="v303" weight="1"/>
+<edge node1="v96" node2="v200" weight="9"/>
+<edge node1="v44" node2="v297" weight="7"/>
+<edge node1="v485" node2="v296" weight="8"/>
+<edge node1="v353" node2="v341" weight="1"/>
+<edge node1="v359" node2="v153" weight="5"/>
+<edge node1="v359" node2="v239" weight="5"/>
+<edge node1="v359" node2="v42" weight="1"/>
+<edge node1="v105" node2="v26" weight="8"/>
+<edge node1="v105" node2="v42" weight="5"/>
+<edge node1="v148" node2="v186" weight="3"/>
+<edge node1="v401" node2="v374" weight="6"/>
+<edge node1="v344" node2="v239" weight="2"/>
+<edge node1="v344" node2="v127" weight="6"/>
+<edge node1="v333" node2="v102" weight="7"/>
+<edge node1="v217" node2="v286" weight="3"/>
+<edge node1="v137" node2="v341" weight="7"/>
+<edge node1="v137" node2="v180" weight="7"/>
+<edge node1="v459" node2="v494" weight="4"/>
+<edge node1="v459" node2="v212" weight="7"/>
+<edge node1="v28" node2="v497" weight="6"/>
+<edge node1="v281" node2="v411" weight="4"/>
+<edge node1="v281" node2="v235" weight="6"/>
+<edge node1="v366" node2="v20" weight="3"/>
+<edge node1="v312" node2="v267" weight="4"/>
+<edge node1="v312" node2="v199" weight="3"/>
+<edge node1="v318" node2="v129" weight="5"/>
+<edge node1="v318" node2="v199" weight="3"/>
+<edge node1="v49" node2="v483" weight="5"/>
+<edge node1="v49" node2="v454" weight="5"/>
+<edge node1="v128" node2="v84" weight="6"/>
+<edge node1="v203" node2="v340" weight="6"/>
+<edge node1="v203" node2="v11" weight="5"/>
+<edge node1="v196" node2="v464" weight="3"/>
+<edge node1="v196" node2="v242" weight="4"/>
+<edge node1="v173" node2="v497" weight="4"/>
+<edge node1="v173" node2="v298" weight="9"/>
+<edge node1="v61" node2="v51" weight="4"/>
+<edge node1="v377" node2="v321" weight="3"/>
+<edge node1="v138" node2="v31" weight="9"/>
+<edge node1="v493" node2="v118" weight="4"/>
+<edge node1="v493" node2="v453" weight="4"/>
+<edge node1="v231" node2="v232" weight="3"/>
+<edge node1="v60" node2="v82" weight="4"/>
+<edge node1="v60" node2="v171" weight="1"/>
+<edge node1="v68" node2="v189" weight="6"/>
+<edge node1="v68" node2="v348" weight="4"/>
+<edge node1="v259" node2="v348" weight="3"/>
+<edge node1="v84" node2="v286" weight="2"/>
+<edge node1="v212" node2="v288" weight="4"/>
+<edge node1="v288" node2="v429" weight="3"/>
+<edge node1="v457" node2="v26" weight="2"/>
+<edge node1="v75" node2="v340" weight="8"/>
+<edge node1="v75" node2="v167" weight="1"/>
+<edge node1="v357" node2="v363" weight="4"/>
+<edge node1="v357" node2="v249" weight="2"/>
+<edge node1="v100" node2="v16" weight="2"/>
+<edge node1="v100" node2="v327" weight="9"/>
+<edge node1="v345" node2="v22" weight="1"/>
+<edge node1="v263" node2="v348" weight="1"/>
+<edge node1="v213" node2="v448" weight="4"/>
+<edge node1="v213" node2="v32" weight="7"/>
+<edge node1="v213" node2="v66" weight="9"/>
+<edge node1="v106" node2="v436" weight="7"/>
+<edge node1="v106" node2="v194" weight="1"/>
+<edge node1="v106" node2="v308" weight="6"/>
+<edge node1="v7" node2="v253" weight="2"/>
+<edge node1="v438" node2="v422" weight="3"/>
+<edge node1="v421" node2="v38" weight="1"/>
+<edge node1="v463" node2="v115" weight="1"/>
+<edge node1="v463" node2="v448" weight="9"/>
+<edge node1="v323" node2="v298" weight="9"/>
+<edge node1="v81" node2="v291" weight="5"/>
+<edge node1="v80" node2="v405" weight="2"/>
+<edge node1="v80" node2="v422" weight="5"/>
+<edge node1="v159" node2="v405" weight="2"/>
+<edge node1="v159" node2="v422" weight="6"/>
+<edge node1="v226" node2="v94" weight="2"/>
+<edge node1="v226" node2="v439" weight="9"/>
+<edge node1="v271" node2="v395" weight="8"/>
+<edge node1="v476" node2="v135" weight="6"/>
+<edge node1="v275" node2="v180" weight="6"/>
+<edge node1="v29" node2="v483" weight="7"/>
+<edge node1="v29" node2="v233" weight="3"/>
+<edge node1="v47" node2="v489" weight="1"/>
+<edge node1="v47" node2="v174" weight="1"/>
+<edge node1="v284" node2="v406" weight="2"/>
+<edge node1="v394" node2="v92" weight="7"/>
+<edge node1="v394" node2="v299" weight="2"/>
+<edge node1="v129" node2="v468" weight="7"/>
+<edge node1="v316" node2="v303" weight="3"/>
+<edge node1="v316" node2="v308" weight="8"/>
+<edge node1="v316" node2="v6" weight="3"/>
+<edge node1="v342" node2="v19" weight="8"/>
+<edge node1="v19" node2="v497" weight="2"/>
+<edge node1="v19" node2="v43" weight="4"/>
+<edge node1="v415" node2="v363" weight="9"/>
+<edge node1="v415" node2="v299" weight="2"/>
+<edge node1="v415" node2="v329" weight="9"/>
+<edge node1="v102" node2="v403" weight="3"/>
+<edge node1="v208" node2="v181" weight="1"/>
+<edge node1="v208" node2="v72" weight="8"/>
+<edge node1="v397" node2="v360" weight="2"/>
+<edge node1="v397" node2="v10" weight="1"/>
+<edge node1="v497" node2="v62" weight="2"/>
+<edge node1="v23" node2="v211" weight="6"/>
+<edge node1="v92" node2="v172" weight="8"/>
+<edge node1="v2" node2="v221" weight="1"/>
+<edge node1="v2" node2="v219" weight="3"/>
+<edge node1="v2" node2="v370" weight="1"/>
+<edge node1="v101" node2="v477" weight="8"/>
+<edge node1="v436" node2="v242" weight="2"/>
+<edge node1="v134" node2="v163" weight="1"/>
+<edge node1="v145" node2="v10" weight="7"/>
+<edge node1="v25" node2="v277" weight="9"/>
+<edge node1="v25" node2="v255" weight="4"/>
+<edge node1="v88" node2="v14" weight="6"/>
+<edge node1="v88" node2="v430" weight="4"/>
+<edge node1="v172" node2="v30" weight="2"/>
+<edge node1="v262" node2="v163" weight="8"/>
+<edge node1="v262" node2="v283" weight="2"/>
+<edge node1="v181" node2="v266" weight="4"/>
+<edge node1="v116" node2="v483" weight="1"/>
+<edge node1="v449" node2="v94" weight="7"/>
+<edge node1="v192" node2="v200" weight="9"/>
+<edge node1="v431" node2="v371" weight="2"/>
+<edge node1="v57" node2="v182" weight="9"/>
+<edge node1="v489" node2="v367" weight="2"/>
+<edge node1="v489" node2="v486" weight="1"/>
+<edge node1="v118" node2="v379" weight="9"/>
+<edge node1="v140" node2="v286" weight="2"/>
+<edge node1="v140" node2="v487" weight="7"/>
+<edge node1="v63" node2="v367" weight="6"/>
+<edge node1="v63" node2="v486" weight="7"/>
+<edge node1="v50" node2="v266" weight="1"/>
+<edge node1="v406" node2="v171" weight="6"/>
+<edge node1="v341" node2="v51" weight="1"/>
+<edge node1="v447" node2="v329" weight="9"/>
+<edge node1="v479" node2="v183" weight="5"/>
+<edge node1="v479" node2="v125" weight="6"/>
+<edge node1="v220" node2="v82" weight="7"/>
+<edge node1="v221" node2="v381" weight="9"/>
+<edge node1="v356" node2="v113" weight="5"/>
+<edge node1="v363" node2="v43" weight="2"/>
+<edge node1="v395" node2="v305" weight="1"/>
+<edge node1="v395" node2="v113" weight="1"/>
+<edge node1="v468" node2="v267" weight="5"/>
+<edge node1="v464" node2="v314" weight="1"/>
+<edge node1="v111" node2="v430" weight="2"/>
+<edge node1="v273" node2="v194" weight="7"/>
+<edge node1="v273" node2="v308" weight="2"/>
+<edge node1="v119" node2="v51" weight="2"/>
+<edge node1="v211" node2="v32" weight="8"/>
+<edge node1="v488" node2="v272" weight="3"/>
+<edge node1="v488" node2="v171" weight="6"/>
+<edge node1="v228" node2="v62" weight="5"/>
+<edge node1="v158" node2="v11" weight="4"/>
+<edge node1="v381" node2="v370" weight="7"/>
+<edge node1="v191" node2="v283" weight="5"/>
+<edge node1="v367" node2="v407" weight="1"/>
+<edge node1="v379" node2="v252" weight="9"/>
+<edge node1="v8" node2="v146" weight="8"/>
+<edge node1="v8" node2="v232" weight="5"/>
+<edge node1="v163" node2="v152" weight="6"/>
+<edge node1="v163" node2="v325" weight="7"/>
+<edge node1="v453" node2="v374" weight="6"/>
+<edge node1="v185" node2="v86" weight="5"/>
+<edge node1="v407" node2="v41" weight="1"/>
+<edge node1="v252" node2="v374" weight="6"/>
+<edge node1="v142" node2="v167" weight="2"/>
+<edge node1="v329" node2="v430" weight="2"/>
+<edge node1="v146" node2="v152" weight="3"/>
+<edge node1="v135" node2="v167" weight="1"/>
+<edge node1="v439" node2="v249" weight="2"/>
+<edge node1="v186" node2="v477" weight="9"/>
+<edge node1="v120" node2="v277" weight="4"/>
+<edge node1="v120" node2="v255" weight="2"/>
+<edge node1="v38" node2="v32" weight="8"/>
+<edge node1="v38" node2="v66" weight="6"/>
+<edge node1="v398" node2="v183" weight="9"/>
+<edge node1="v182" node2="v454" weight="4"/>
+<edge node1="v67" node2="v242" weight="3"/>
+<edge node1="v298" node2="v62" weight="4"/>
+<edge node1="v194" node2="v369" weight="6"/>
+<edge node1="v43" node2="v249" weight="7"/>
+<edge node1="v374" node2="v125" weight="5"/>
+<edge node1="v32" node2="v86" weight="9"/>
+<edge node1="v429" node2="v242" weight="8"/>
+<edge node1="v321" node2="v42" weight="2"/>
+<edge node1="v337" node2="v367" weight="7"/>
+<edge node1="v166" node2="v49" weight="5"/>
+<edge node1="v412" node2="v271" weight="1"/>
+<edge node1="v127" node2="v93" weight="8"/>
+<edge node1="v212" node2="v371" weight="1"/>
+<edge node1="v411" node2="v418" weight="9"/>
+<edge node1="v53" node2="v264" weight="6"/>
+<edge node1="v286" node2="v202" weight="1"/>
+<edge node1="v425" node2="v309" weight="5"/>
+<edge node1="v410" node2="v424" weight="8"/>
+<edge node1="v292" node2="v36" weight="1"/>
+<edge node1="v404" node2="v420" weight="5"/>
+<edge node1="v420" node2="v74" weight="2"/>
+<edge node1="v425" node2="v481" weight="7"/>
+<edge node1="v358" node2="v54" weight="4"/>
+<edge node1="v330" node2="v339" weight="4"/>
+<edge node1="v364" node2="v206" weight="1"/>
+<edge node1="v207" node2="v410" weight="4"/>
+<edge node1="v452" node2="v495" weight="4"/>
+<edge node1="v58" node2="v34" weight="4"/>
+<edge node1="v416" node2="v331" weight="2"/>
+<edge node1="v416" node2="v214" weight="5"/>
+<edge node1="v339" node2="v481" weight="1"/>
+<edge node1="v295" node2="v52" weight="6"/>
+<edge node1="v107" node2="v399" weight="5"/>
+<edge node1="v0" node2="v251" weight="8"/>
+<edge node1="v0" node2="v71" weight="7"/>
+<edge node1="v326" node2="v122" weight="7"/>
+<edge node1="v243" node2="v426" weight="4"/>
+<edge node1="v378" node2="v387" weight="9"/>
+<edge node1="v495" node2="v33" weight="1"/>
+<edge node1="v306" node2="v420" weight="4"/>
+<edge node1="v306" node2="v289" weight="4"/>
+<edge node1="v450" node2="v364" weight="6"/>
+<edge node1="v294" node2="v156" weight="5"/>
+<edge node1="v5" node2="v335" weight="5"/>
+<edge node1="v404" node2="v396" weight="5"/>
+<edge node1="v404" node2="v460" weight="8"/>
+<edge node1="v317" node2="v165" weight="1"/>
+<edge node1="v466" node2="v322" weight="2"/>
+<edge node1="v209" node2="v330" weight="2"/>
+<edge node1="v425" node2="v339" weight="5"/>
+<edge node1="v358" node2="v18" weight="8"/>
+<edge node1="v1" node2="v399" weight="8"/>
+<edge node1="v458" node2="v499" weight="7"/>
+<edge node1="v471" node2="v64" weight="4"/>
+<edge node1="v59" node2="v339" weight="7"/>
+<edge node1="v147" node2="v326" weight="1"/>
+<edge node1="v147" node2="v302" weight="6"/>
+<edge node1="v270" node2="v326" weight="6"/>
+<edge node1="v155" node2="v427" weight="7"/>
+<edge node1="v380" node2="v52" weight="4"/>
+<edge node1="v350" node2="v295" weight="9"/>
+<edge node1="v149" node2="v361" weight="6"/>
+<edge node1="v382" node2="v490" weight="9"/>
+<edge node1="v0" node2="v289" weight="1"/>
+<edge node1="v234" node2="v375" weight="6"/>
+<edge node1="v311" node2="v244" weight="5"/>
+<edge node1="v285" node2="v206" weight="9"/>
+<edge node1="v378" node2="v498" weight="8"/>
+<edge node1="v338" node2="v54" weight="1"/>
+<edge node1="v495" node2="v83" weight="7"/>
+<edge node1="v440" node2="v83" weight="6"/>
+<edge node1="v331" node2="v214" weight="1"/>
+<edge node1="v294" node2="v234" weight="3"/>
+<edge node1="v294" node2="v375" weight="2"/>
+<edge node1="v437" node2="v495" weight="8"/>
+<edge node1="v216" node2="v364" weight="1"/>
+<edge node1="v90" node2="v58" weight="7"/>
+<edge node1="v225" node2="v317" weight="3"/>
+<edge node1="v225" node2="v165" weight="9"/>
+<edge node1="v349" node2="v382" weight="7"/>
+<edge node1="v349" node2="v490" weight="4"/>
+<edge node1="v156" node2="v408" weight="5"/>
+<edge node1="v5" node2="v110" weight="3"/>
+<edge node1="v5" node2="v83" weight="7"/>
+<edge node1="v404" node2="v251" weight="8"/>
+<edge node1="v404" node2="v496" weight="6"/>
+<edge node1="v376" node2="v261" weight="2"/>
+<edge node1="v65" node2="v130" weight="1"/>
+<edge node1="v317" node2="v188" weight="4"/>
+<edge node1="v78" node2="v74" weight="8"/>
+<edge node1="v260" node2="v35" weight="2"/>
+<edge node1="v396" node2="v280" weight="3"/>
+<edge node1="v48" node2="v229" weight="2"/>
+<edge node1="v336" node2="v409" weight="8"/>
+<edge node1="v110" node2="v354" weight="8"/>
+<edge node1="v385" node2="v287" weight="3"/>
+<edge node1="v466" node2="v24" weight="9"/>
+<edge node1="v279" node2="v136" weight="9"/>
+<edge node1="v131" node2="v300" weight="9"/>
+<edge node1="v215" node2="v302" weight="1"/>
+<edge node1="v420" node2="v391" weight="2"/>
+<edge node1="v400" node2="v391" weight="8"/>
+<edge node1="v74" node2="v441" weight="7"/>
+<edge node1="v161" node2="v123" weight="7"/>
+<edge node1="v161" node2="v34" weight="6"/>
+<edge node1="v161" node2="v175" weight="4"/>
+<edge node1="v161" node2="v351" weight="1"/>
+<edge node1="v304" node2="v83" weight="1"/>
+<edge node1="v392" node2="v179" weight="6"/>
+<edge node1="v434" node2="v481" weight="5"/>
+<edge node1="v358" node2="v236" weight="9"/>
+<edge node1="v358" node2="v169" weight="5"/>
+<edge node1="v413" node2="v285" weight="1"/>
+<edge node1="v413" node2="v206" weight="6"/>
+<edge node1="v98" node2="v465" weight="7"/>
+<edge node1="v98" node2="v402" weight="2"/>
+<edge node1="v56" node2="v59" weight="9"/>
+<edge node1="v56" node2="v339" weight="9"/>
+<edge node1="v56" node2="v121" weight="3"/>
+<edge node1="v205" node2="v433" weight="7"/>
+<edge node1="v205" node2="v382" weight="6"/>
+<edge node1="v205" node2="v490" weight="5"/>
+<edge node1="v207" node2="v301" weight="5"/>
+<edge node1="v207" node2="v117" weight="2"/>
+<edge node1="v207" node2="v424" weight="5"/>
+<edge node1="v452" node2="v33" weight="3"/>
+<edge node1="v17" node2="v123" weight="3"/>
+<edge node1="v17" node2="v136" weight="1"/>
+<edge node1="v188" node2="v311" weight="4"/>
+<edge node1="v58" node2="v409" weight="2"/>
+<edge node1="v276" node2="v474" weight="7"/>
+<edge node1="v168" node2="v433" weight="4"/>
+<edge node1="v168" node2="v351" weight="2"/>
+<edge node1="v458" node2="v117" weight="6"/>
+<edge node1="v197" node2="v69" weight="3"/>
+<edge node1="v416" node2="v244" weight="6"/>
+<edge node1="v157" node2="v310" weight="2"/>
+<edge node1="v157" node2="v40" weight="9"/>
+<edge node1="v475" node2="v21" weight="8"/>
+<edge node1="v455" node2="v417" weight="9"/>
+<edge node1="v362" node2="v469" weight="1"/>
+<edge node1="v471" node2="v178" weight="6"/>
+<edge node1="v423" node2="v33" weight="9"/>
+<edge node1="v423" node2="v307" weight="5"/>
+<edge node1="v59" node2="v352" weight="6"/>
+<edge node1="v147" node2="v373" weight="5"/>
+<edge node1="v236" node2="v55" weight="8"/>
+<edge node1="v236" node2="v244" weight="4"/>
+<edge node1="v446" node2="v389" weight="2"/>
+<edge node1="v79" node2="v107" weight="4"/>
+<edge node1="v195" node2="v346" weight="8"/>
+<edge node1="v155" node2="v176" weight="5"/>
+<edge node1="v155" node2="v443" weight="4"/>
+<edge node1="v383" node2="v178" weight="8"/>
+<edge node1="v176" node2="v427" weight="7"/>
+<edge node1="v176" node2="v302" weight="9"/>
+<edge node1="v372" node2="v378" weight="3"/>
+<edge node1="v409" node2="v469" weight="9"/>
+<edge node1="v190" node2="v490" weight="1"/>
+<edge node1="v414" node2="v130" weight="1"/>
+<edge node1="v414" node2="v378" weight="9"/>
+<edge node1="v414" node2="v498" weight="3"/>
+<edge node1="v149" node2="v204" weight="2"/>
+<edge node1="v295" node2="v282" weight="8"/>
+<edge node1="v141" node2="v481" weight="2"/>
+<edge node1="v382" node2="v390" weight="9"/>
+<edge node1="v139" node2="v27" weight="7"/>
+<edge node1="v107" node2="v378" weight="4"/>
+<edge node1="v0" node2="v37" weight="7"/>
+<edge node1="v21" node2="v179" weight="1"/>
+<edge node1="v133" node2="v34" weight="3"/>
+<edge node1="v326" node2="v373" weight="7"/>
+<edge node1="v234" node2="v112" weight="9"/>
+<edge node1="v109" node2="v292" weight="9"/>
+<edge node1="v237" node2="v441" weight="2"/>
+<edge node1="v27" node2="v241" weight="6"/>
+<edge node1="v170" node2="v241" weight="8"/>
+<edge node1="v224" node2="v426" weight="9"/>
+<edge node1="v261" node2="v440" weight="2"/>
+<edge node1="v311" node2="v184" weight="1"/>
+<edge node1="v229" node2="v214" weight="5"/>
+<edge node1="v285" node2="v465" weight="1"/>
+<edge node1="v95" node2="v495" weight="6"/>
+<edge node1="v121" node2="v151" weight="3"/>
+<edge node1="v399" node2="v387" weight="8"/>
+<edge node1="v338" node2="v301" weight="9"/>
+<edge node1="v338" node2="v254" weight="9"/>
+<edge node1="v287" node2="v470" weight="8"/>
+<edge node1="v287" node2="v445" weight="1"/>
+<edge node1="v301" node2="v54" weight="7"/>
+<edge node1="v301" node2="v443" weight="4"/>
+<edge node1="v250" node2="v206" weight="3"/>
+<edge node1="v465" node2="v12" weight="4"/>
+<edge node1="v244" node2="v184" weight="4"/>
+<edge node1="v352" node2="v198" weight="5"/>
+<edge node1="v460" node2="v496" weight="2"/>
+<edge node1="v178" node2="v307" weight="4"/>
+<edge node1="v473" node2="v132" weight="8"/>
+<edge node1="v245" node2="v408" weight="1"/>
+<edge node1="v117" node2="v499" weight="1"/>
+<edge node1="v470" node2="v365" weight="5"/>
+<edge node1="v470" node2="v73" weight="2"/>
+<edge node1="v165" node2="v410" weight="5"/>
+<edge node1="v302" node2="v443" weight="7"/>
+<edge node1="v309" node2="v481" weight="7"/>
+<edge node1="v251" node2="v144" weight="1"/>
+<edge node1="v496" node2="v408" weight="3"/>
+<edge node1="v71" node2="v441" weight="6"/>
+<edge node1="v402" node2="v179" weight="4"/>
+<edge node1="v306" node2="v404" weight="9"/>
+<edge node1="v306" node2="v251" weight="6"/>
+<edge node1="v450" node2="v243" weight="3"/>
+<edge node1="v450" node2="v206" weight="5"/>
+<edge node1="v388" node2="v73" weight="6"/>
+<edge node1="v76" node2="v205" weight="9"/>
+<edge node1="v76" node2="v433" weight="9"/>
+<edge node1="v437" node2="v358" weight="9"/>
+<edge node1="v437" node2="v169" weight="5"/>
+<edge node1="v462" node2="v475" weight="6"/>
+<edge node1="v462" node2="v21" weight="7"/>
+<edge node1="v334" node2="v424" weight="7"/>
+<edge node1="v126" node2="v428" weight="7"/>
+<edge node1="v126" node2="v56" weight="2"/>
+<edge node1="v126" node2="v59" weight="8"/>
+<edge node1="v247" node2="v287" weight="1"/>
+<edge node1="v247" node2="v470" weight="1"/>
+<edge node1="v247" node2="v445" weight="9"/>
+<edge node1="v216" node2="v243" weight="7"/>
+<edge node1="v90" node2="v433" weight="8"/>
+<edge node1="v225" node2="v343" weight="1"/>
+<edge node1="v230" node2="v161" weight="5"/>
+<edge node1="v230" node2="v34" weight="5"/>
+<edge node1="v230" node2="v175" weight="1"/>
+<edge node1="v238" node2="v17" weight="8"/>
+<edge node1="v238" node2="v175" weight="5"/>
+<edge node1="v349" node2="v206" weight="3"/>
+<edge node1="v156" node2="v4" weight="6"/>
+<edge node1="v268" node2="v34" weight="2"/>
+<edge node1="v268" node2="v204" weight="6"/>
+<edge node1="v404" node2="v455" weight="7"/>
+<edge node1="v65" node2="v95" weight="3"/>
+<edge node1="v317" node2="v343" weight="7"/>
+<edge node1="v317" node2="v389" weight="7"/>
+<edge node1="v78" node2="v420" weight="4"/>
+<edge node1="v78" node2="v400" weight="7"/>
+<edge node1="v260" node2="v223" weight="6"/>
+<edge node1="v45" node2="v358" weight="4"/>
+<edge node1="v45" node2="v236" weight="6"/>
+<edge node1="v368" node2="v270" weight="3"/>
+<edge node1="v256" node2="v55" weight="4"/>
+<edge node1="v256" node2="v244" weight="3"/>
+<edge node1="v48" node2="v416" weight="5"/>
+<edge node1="v48" node2="v244" weight="3"/>
+<edge node1="v336" node2="v361" weight="5"/>
+<edge node1="v336" node2="v498" weight="5"/>
+<edge node1="v110" node2="v435" weight="6"/>
+<edge node1="v257" node2="v423" weight="6"/>
+<edge node1="v257" node2="v178" weight="5"/>
+<edge node1="v385" node2="v237" weight="3"/>
+<edge node1="v385" node2="v441" weight="4"/>
+<edge node1="v419" node2="v223" weight="4"/>
+<edge node1="v419" node2="v324" weight="9"/>
+<edge node1="v466" node2="v46" weight="4"/>
+<edge node1="v279" node2="v319" weight="3"/>
+<edge node1="v209" node2="v456" weight="9"/>
+<edge node1="v131" node2="v382" weight="4"/>
+<edge node1="v131" node2="v390" weight="4"/>
+<edge node1="v215" node2="v132" weight="3"/>
+<edge node1="v240" node2="v402" weight="4"/>
+<edge node1="v240" node2="v179" weight="1"/>
+<edge node1="v482" node2="v496" weight="6"/>
+<edge node1="v482" node2="v408" weight="4"/>
+<edge node1="v24" node2="v408" weight="3"/>
+<edge node1="v435" node2="v95" weight="2"/>
+<edge node1="v400" node2="v74" weight="4"/>
+<edge node1="v74" node2="v289" weight="3"/>
+<edge node1="v444" node2="v17" weight="2"/>
+<edge node1="v304" node2="v423" weight="8"/>
+<edge node1="v304" node2="v33" weight="1"/>
+<edge node1="v392" node2="v310" weight="4"/>
+<edge node1="v392" node2="v426" weight="2"/>
+<edge node1="v434" node2="v56" weight="2"/>
+<edge node1="v434" node2="v339" weight="9"/>
+<edge node1="v391" node2="v280" weight="1"/>
+<edge node1="v322" node2="v408" weight="1"/>
+<edge node1="v210" node2="v107" weight="4"/>
+<edge node1="v210" node2="v198" weight="7"/>
+<edge node1="v210" node2="v355" weight="9"/>
+<edge node1="v154" node2="v195" weight="7"/>
+<edge node1="v154" node2="v346" weight="1"/>
+<edge node1="v154" node2="v365" weight="6"/>
+<edge node1="v472" node2="v109" weight="2"/>
+<edge node1="v413" node2="v490" weight="3"/>
+<edge node1="v428" node2="v313" weight="1"/>
+<edge node1="v1" node2="v79" weight="1"/>
+<edge node1="v1" node2="v107" weight="9"/>
+<edge node1="v187" node2="v324" weight="9"/>
+<edge node1="v98" node2="v451" weight="5"/>
+<edge node1="v269" node2="v168" weight="2"/>
+<edge node1="v269" node2="v490" weight="5"/>
+<edge node1="v484" node2="v168" weight="2"/>
+<edge node1="v484" node2="v490" weight="6"/>
+<edge node1="v364" node2="v285" weight="2"/>
+<edge node1="v364" node2="v12" weight="9"/>
+<edge node1="v207" node2="v258" weight="8"/>
+<edge node1="v452" node2="v254" weight="6"/>
+<edge node1="v188" node2="v389" weight="6"/>
+<edge node1="v58" node2="v361" weight="7"/>
+<edge node1="v58" node2="v351" weight="3"/>
+<edge node1="v276" node2="v141" weight="1"/>
+<edge node1="v276" node2="v309" weight="1"/>
+<edge node1="v467" node2="v139" weight="2"/>
+<edge node1="v197" node2="v35" weight="7"/>
+<edge node1="v197" node2="v170" weight="2"/>
+<edge node1="v416" node2="v469" weight="7"/>
+<edge node1="v478" node2="v470" weight="3"/>
+<edge node1="v478" node2="v365" weight="8"/>
+<edge node1="v478" node2="v73" weight="3"/>
+<edge node1="v69" node2="v157" weight="8"/>
+<edge node1="v157" node2="v223" weight="2"/>
+<edge node1="v157" node2="v36" weight="4"/>
+<edge node1="v475" node2="v310" weight="9"/>
+<edge node1="v475" node2="v170" weight="2"/>
+<edge node1="v475" node2="v241" weight="9"/>
+<edge node1="v455" node2="v251" weight="3"/>
+<edge node1="v77" node2="v372" weight="1"/>
+<edge node1="v77" node2="v378" weight="8"/>
+<edge node1="v471" node2="v326" weight="2"/>
+<edge node1="v471" node2="v373" weight="1"/>
+<edge node1="v223" node2="v40" weight="2"/>
+<edge node1="v59" node2="v177" weight="6"/>
+<edge node1="v35" node2="v350" weight="8"/>
+<edge node1="v446" node2="v234" weight="1"/>
+<edge node1="v446" node2="v311" weight="3"/>
+<edge node1="v446" node2="v184" weight="1"/>
+<edge node1="v417" node2="v144" weight="8"/>
+<edge node1="v195" node2="v441" weight="2"/>
+<edge node1="v155" node2="v162" weight="1"/>
+<edge node1="v383" node2="v373" weight="7"/>
+<edge node1="v491" node2="v165" weight="9"/>
+<edge node1="v491" node2="v410" weight="4"/>
+<edge node1="v380" node2="v295" weight="6"/>
+<edge node1="v380" node2="v282" weight="4"/>
+<edge node1="v350" node2="v52" weight="2"/>
+<edge node1="v176" node2="v162" weight="8"/>
+<edge node1="v176" node2="v122" weight="2"/>
+<edge node1="v372" node2="v354" weight="4"/>
+<edge node1="v409" node2="v361" weight="1"/>
+<edge node1="v190" node2="v285" weight="7"/>
+<edge node1="v164" node2="v445" weight="9"/>
+<edge node1="v201" node2="v85" weight="2"/>
+<edge node1="v149" node2="v387" weight="9"/>
+<edge node1="v141" node2="v474" weight="2"/>
+<edge node1="v141" node2="v151" weight="1"/>
+<edge node1="v382" node2="v108" weight="9"/>
+<edge node1="v169" node2="v95" weight="2"/>
+<edge node1="v169" node2="v495" weight="7"/>
+<edge node1="v335" node2="v474" weight="6"/>
+<edge node1="v335" node2="v151" weight="7"/>
+<edge node1="v124" node2="v354" weight="1"/>
+<edge node1="v139" node2="v179" weight="6"/>
+<edge node1="v343" node2="v46" weight="1"/>
+<edge node1="v21" node2="v241" weight="9"/>
+<edge node1="v300" node2="v112" weight="5"/>
+<edge node1="v300" node2="v375" weight="6"/>
+<edge node1="v136" node2="v402" weight="7"/>
+<edge node1="v234" node2="v229" weight="9"/>
+<edge node1="v18" node2="v54" weight="5"/>
+<edge node1="v310" node2="v36" weight="2"/>
+<edge node1="v258" node2="v117" weight="1"/>
+<edge node1="v258" node2="v54" weight="1"/>
+<edge node1="v469" node2="v55" weight="5"/>
+<edge node1="v237" node2="v287" weight="1"/>
+<edge node1="v27" node2="v282" weight="2"/>
+<edge node1="v432" node2="v346" weight="7"/>
+<edge node1="v432" node2="v365" weight="2"/>
+<edge node1="v143" node2="v46" weight="2"/>
+<edge node1="v177" node2="v198" weight="8"/>
+<edge node1="v224" node2="v465" weight="3"/>
+<edge node1="v224" node2="v179" weight="6"/>
+<edge node1="v292" node2="v40" weight="5"/>
+<edge node1="v261" node2="v178" weight="4"/>
+<edge node1="v229" node2="v184" weight="7"/>
+<edge node1="v427" node2="v122" weight="5"/>
+<edge node1="v474" node2="v440" weight="1"/>
+<edge node1="v108" node2="v460" weight="9"/>
+<edge node1="v338" node2="v473" weight="8"/>
+<edge node1="v338" node2="v132" weight="5"/>
+<edge node1="v162" node2="v302" weight="6"/>
+<edge node1="v162" node2="v443" weight="7"/>
+<edge node1="v390" node2="v4" weight="6"/>
+<edge node1="v352" node2="v193" weight="5"/>
+<edge node1="v440" node2="v307" weight="1"/>
+<edge node1="v460" node2="v4" weight="6"/>
+<edge node1="v83" node2="v33" weight="2"/>
+<edge node1="v241" node2="v282" weight="2"/>
+<edge node1="v473" node2="v302" weight="3"/>
+<edge node1="v254" node2="v33" weight="1"/>
+<edge node1="v12" node2="v426" weight="2"/>
+<edge node1="v206" node2="v144" weight="9"/>
+<edge node1="v499" node2="v165" weight="4"/>
+<edge node1="v499" node2="v410" weight="2"/>
+<edge node1="v313" node2="v198" weight="8"/>
+<edge node1="v313" node2="v355" weight="6"/>
+<edge node1="v214" node2="v112" weight="9"/>
+<edge node1="v387" node2="v498" weight="4"/>
+<edge node1="v37" node2="v441" weight="3"/>
+<edge node1="v324" node2="v40" weight="4"/>
+<edge node1="v346" node2="v71" weight="6"/>
+<edge node1="v36" node2="v426" weight="7"/>
+<edge node1="v4" node2="v375" weight="5"/>
+<edge node1="v198" node2="v193" weight="9"/>
+<edge node1="v289" node2="v441" weight="8"/>
+<edge node1="v319" node2="v175" weight="2"/>
+<edge node1="v248" node2="v474" weight="7"/>
+<edge node1="v160" node2="v336" weight="5"/>
+<edge node1="v278" node2="v207" weight="1"/>
+<edge node1="v204" node2="v320" weight="8"/>
+<edge node1="v400" node2="v85" weight="1"/>
+<edge node1="v358" node2="v293" weight="9"/>
+<edge node1="v133" node2="v9" weight="6"/>
+<edge node1="v95" node2="v91" weight="1"/>
+<edge node1="v218" node2="v330" weight="5"/>
+<edge node1="v138" node2="v209" weight="6"/>
+<edge node1="v31" node2="v456" weight="6"/>
+<edge node1="v23" node2="v59" weight="3"/>
+<edge node1="v185" node2="v352" weight="8"/>
+<edge node1="v86" node2="v193" weight="6"/>
+<edge node1="v115" node2="v79" weight="4"/>
+<edge node1="v463" node2="v1" weight="7"/>
+<edge node1="v274" node2="v399" weight="8"/>
+<edge node1="v93" node2="v320" weight="7"/>
+<edge node1="v127" node2="v204" weight="9"/>
+<edge node1="v264" node2="v9" weight="8"/>
+<edge node1="v53" node2="v133" weight="3"/>
+<edge node1="v377" node2="v279" weight="4"/>
+<edge node1="v321" node2="v319" weight="3"/>
+<edge node1="v82" node2="v402" weight="5"/>
+<edge node1="v220" node2="v136" weight="6"/>
+<edge node1="v111" node2="v27" weight="7"/>
+<edge node1="v284" node2="v467" weight="8"/>
+<edge node1="v88" node2="v380" weight="8"/>
+<edge node1="v430" node2="v282" weight="5"/>
+<edge node1="v30" node2="v52" weight="8"/>
+</edges>
+<teams>
+<team achievementPoints="0" name="A" score="6939" stepScore="16" usedAchievementPoints="30" zonesScore="16">
+<achievements>
+<achievement name="proved5"/>
+<achievement name="proved10"/>
+<achievement name="proved20"/>
+<achievement name="proved40"/>
+<achievement name="proved80"/>
+<achievement name="proved160"/>
+<achievement name="surveyed10"/>
+<achievement name="surveyed20"/>
+<achievement name="surveyed40"/>
+<achievement name="surveyed80"/>
+<achievement name="surveyed160"/>
+<achievement name="inspected5"/>
+<achievement name="area10"/>
+<achievement name="area20"/>
+<achievement name="area40"/>
+</achievements>
+<provedNodes>
+<node name="v188"/>
+<node name="v187"/>
+<node name="v229"/>
+<node name="v185"/>
+<node name="v227"/>
+<node name="v434"/>
+<node name="v184"/>
+<node name="v182"/>
+<node name="v56"/>
+<node name="v55"/>
+<node name="v52"/>
+<node name="v380"/>
+<node name="v232"/>
+<node name="v231"/>
+<node name="v426"/>
+<node name="v425"/>
+<node name="v230"/>
+<node name="v384"/>
+<node name="v236"/>
+<node name="v389"/>
+<node name="v59"/>
+<node name="v234"/>
+<node name="v428"/>
+<node name="v175"/>
+<node name="v238"/>
+<node name="v440"/>
+<node name="v442"/>
+<node name="v179"/>
+<node name="v444"/>
+<node name="v171"/>
+<node name="v63"/>
+<node name="v240"/>
+<node name="v437"/>
+<node name="v69"/>
+<node name="v376"/>
+<node name="v244"/>
+<node name="v246"/>
+<node name="v411"/>
+<node name="v412"/>
+<node name="v206"/>
+<node name="v313"/>
+<node name="v310"/>
+<node name="v311"/>
+<node name="v74"/>
+<node name="v305"/>
+<node name="v72"/>
+<node name="v78"/>
+<node name="v309"/>
+<node name="v113"/>
+<node name="v75"/>
+<node name="v112"/>
+<node name="v214"/>
+<node name="v213"/>
+<node name="v407"/>
+<node name="v79"/>
+<node name="v406"/>
+<node name="v210"/>
+<node name="v404"/>
+<node name="v402"/>
+<node name="v420"/>
+<node name="v290"/>
+<node name="v292"/>
+<node name="v197"/>
+<node name="v293"/>
+<node name="v198"/>
+<node name="v193"/>
+<node name="v295"/>
+<node name="v191"/>
+<node name="v324"/>
+<node name="v83"/>
+<node name="v120"/>
+<node name="v82"/>
+<node name="v495"/>
+<node name="v317"/>
+<node name="v392"/>
+<node name="v393"/>
+<node name="v123"/>
+<node name="v89"/>
+<node name="v126"/>
+<node name="v8"/>
+<node name="v223"/>
+<node name="v418"/>
+<node name="v417"/>
+<node name="v225"/>
+<node name="v419"/>
+<node name="v224"/>
+<node name="v416"/>
+<node name="v397"/>
+<node name="v220"/>
+<node name="v1"/>
+<node name="v140"/>
+<node name="v284"/>
+<node name="v285"/>
+<node name="v282"/>
+<node name="v474"/>
+<node name="v144"/>
+<node name="v283"/>
+<node name="v142"/>
+<node name="v476"/>
+<node name="v145"/>
+<node name="v146"/>
+<node name="v17"/>
+<node name="v139"/>
+<node name="v11"/>
+<node name="v10"/>
+<node name="v343"/>
+<node name="v340"/>
+<node name="v274"/>
+<node name="v481"/>
+<node name="v276"/>
+<node name="v480"/>
+<node name="v95"/>
+<node name="v271"/>
+<node name="v134"/>
+<node name="v487"/>
+<node name="v135"/>
+<node name="v98"/>
+<node name="v136"/>
+<node name="v128"/>
+<node name="v203"/>
+<node name="v27"/>
+<node name="v20"/>
+<node name="v339"/>
+<node name="v161"/>
+<node name="v352"/>
+<node name="v262"/>
+<node name="v350"/>
+<node name="v356"/>
+<node name="v266"/>
+<node name="v355"/>
+<node name="v169"/>
+<node name="v455"/>
+<node name="v454"/>
+<node name="v167"/>
+<node name="v452"/>
+<node name="v260"/>
+<node name="v165"/>
+<node name="v261"/>
+<node name="v163"/>
+<node name="v35"/>
+<node name="v36"/>
+<node name="v448"/>
+<node name="v446"/>
+<node name="v33"/>
+<node name="v32"/>
+<node name="v254"/>
+<node name="v366"/>
+<node name="v255"/>
+<node name="v256"/>
+<node name="v367"/>
+<node name="v465"/>
+<node name="v157"/>
+<node name="v467"/>
+<node name="v152"/>
+<node name="v463"/>
+<node name="v360"/>
+<node name="v48"/>
+<node name="v358"/>
+<node name="v40"/>
+<node name="v41"/>
+</provedNodes>
+</team>
+<team achievementPoints="2" name="B" score="19144" stepScore="66" usedAchievementPoints="30" zonesScore="64">
+<achievements>
+<achievement name="proved5"/>
+<achievement name="proved10"/>
+<achievement name="proved20"/>
+<achievement name="proved40"/>
+<achievement name="proved80"/>
+<achievement name="surveyed10"/>
+<achievement name="surveyed20"/>
+<achievement name="surveyed40"/>
+<achievement name="surveyed80"/>
+<achievement name="surveyed160"/>
+<achievement name="surveyed320"/>
+<achievement name="inspected5"/>
+<achievement name="parried5"/>
+<achievement name="area10"/>
+<achievement name="area20"/>
+<achievement name="area40"/>
+</achievements>
+<provedNodes>
+<node name="v189"/>
+<node name="v180"/>
+<node name="v53"/>
+<node name="v381"/>
+<node name="v51"/>
+<node name="v383"/>
+<node name="v384"/>
+<node name="v424"/>
+<node name="v235"/>
+<node name="v387"/>
+<node name="v58"/>
+<node name="v429"/>
+<node name="v175"/>
+<node name="v369"/>
+<node name="v440"/>
+<node name="v239"/>
+<node name="v176"/>
+<node name="v302"/>
+<node name="v65"/>
+<node name="v67"/>
+<node name="v103"/>
+<node name="v61"/>
+<node name="v370"/>
+<node name="v372"/>
+<node name="v436"/>
+<node name="v373"/>
+<node name="v374"/>
+<node name="v242"/>
+<node name="v377"/>
+<node name="v68"/>
+<node name="v378"/>
+<node name="v379"/>
+<node name="v246"/>
+<node name="v411"/>
+<node name="v410"/>
+<node name="v207"/>
+<node name="v106"/>
+<node name="v312"/>
+<node name="v306"/>
+<node name="v305"/>
+<node name="v77"/>
+<node name="v308"/>
+<node name="v113"/>
+<node name="v307"/>
+<node name="v75"/>
+<node name="v409"/>
+<node name="v408"/>
+<node name="v407"/>
+<node name="v404"/>
+<node name="v420"/>
+<node name="v219"/>
+<node name="v423"/>
+<node name="v199"/>
+<node name="v217"/>
+<node name="v116"/>
+<node name="v117"/>
+<node name="v118"/>
+<node name="v119"/>
+<node name="v194"/>
+<node name="v321"/>
+<node name="v322"/>
+<node name="v83"/>
+<node name="v120"/>
+<node name="v391"/>
+<node name="v495"/>
+<node name="v317"/>
+<node name="v122"/>
+<node name="v496"/>
+<node name="v87"/>
+<node name="v319"/>
+<node name="v498"/>
+<node name="v318"/>
+<node name="v123"/>
+<node name="v9"/>
+<node name="v89"/>
+<node name="v499"/>
+<node name="v125"/>
+<node name="v414"/>
+<node name="v395"/>
+<node name="v396"/>
+<node name="v221"/>
+<node name="v492"/>
+<node name="v220"/>
+<node name="v334"/>
+<node name="v288"/>
+<node name="v333"/>
+<node name="v286"/>
+<node name="v4"/>
+<node name="v140"/>
+<node name="v2"/>
+<node name="v143"/>
+<node name="v473"/>
+<node name="v280"/>
+<node name="v142"/>
+<node name="v281"/>
+<node name="v476"/>
+<node name="v468"/>
+<node name="v17"/>
+<node name="v326"/>
+<node name="v277"/>
+<node name="v343"/>
+<node name="v273"/>
+<node name="v275"/>
+<node name="v341"/>
+<node name="v480"/>
+<node name="v130"/>
+<node name="v483"/>
+<node name="v482"/>
+<node name="v270"/>
+<node name="v95"/>
+<node name="v271"/>
+<node name="v133"/>
+<node name="v487"/>
+<node name="v97"/>
+<node name="v136"/>
+<node name="v137"/>
+<node name="v129"/>
+<node name="v24"/>
+<node name="v25"/>
+<node name="v26"/>
+<node name="v202"/>
+<node name="v336"/>
+<node name="v338"/>
+<node name="v353"/>
+<node name="v264"/>
+<node name="v161"/>
+<node name="v351"/>
+<node name="v160"/>
+<node name="v263"/>
+<node name="v267"/>
+<node name="v169"/>
+<node name="v455"/>
+<node name="v167"/>
+<node name="v454"/>
+<node name="v165"/>
+<node name="v452"/>
+<node name="v39"/>
+<node name="v259"/>
+<node name="v348"/>
+<node name="v33"/>
+<node name="v34"/>
+<node name="v361"/>
+<node name="v252"/>
+<node name="v150"/>
+<node name="v254"/>
+<node name="v255"/>
+<node name="v368"/>
+<node name="v156"/>
+<node name="v158"/>
+<node name="v466"/>
+<node name="v461"/>
+<node name="v460"/>
+<node name="v153"/>
+<node name="v46"/>
+<node name="v49"/>
+<node name="v149"/>
+<node name="v458"/>
+<node name="v359"/>
+<node name="v42"/>
+</provedNodes>
+</team>
+</teams>
+</state>
+</simulationstate>

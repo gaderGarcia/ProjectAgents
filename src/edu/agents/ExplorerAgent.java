@@ -64,7 +64,7 @@ public class ExplorerAgent extends Agent {
 			println(msg.sender + " dime cabron " + msg.value);
 			String predicate = ((LogicBelief)msg.value).getPredicate();
 			if ( containsBelief((LogicBelief)msg.value) ) {
-				println("I already knew that");
+				println("Ya lo sabia");
 			}
 			else {
 				println("oralee esto es nuevo para mi");
@@ -73,7 +73,7 @@ public class ExplorerAgent extends Agent {
 					println("Lo tendre presente");
 					continue;
 				}
-				println("but I am not interested in that gibberish");
+				println("Pero no estoy interesado en esa madre");
 			}
 		}
 		
