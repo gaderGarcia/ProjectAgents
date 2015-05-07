@@ -2,11 +2,11 @@
 <javaAgentsConfig>
   <agents>
     <agent name="agentA1" entity="connectionA1" class="edu.agents.ExplorerAgent" team="A"/>
-    <agent name="agentA2" entity="connectionA2" class="massim.javaagents.agents.SimpleExplorerAgent" team="A"/>
-    <agent name="agentA3" entity="connectionA3" class="massim.javaagents.agents.SimpleExplorerAgent" team="A"/>
-    <agent name="agentA4" entity="connectionA4" class="massim.javaagents.agents.SimpleExplorerAgent" team="A"/>
-    <agent name="agentA5" entity="connectionA5" class="massim.javaagents.agents.SimpleExplorerAgent" team="A"/>
-    <agent name="agentA6" entity="connectionA6" class="massim.javaagents.agents.SimpleExplorerAgent" team="A"/>
+    <agent name="agentA2" entity="connectionA2" class="edu.agents.ExplorerAgent" team="A"/>
+    <agent name="agentA3" entity="connectionA3" class="edu.agents.ExplorerAgent" team="A"/>
+    <agent name="agentA4" entity="connectionA4" class="edu.agents.ExplorerAgent" team="A"/>
+    <agent name="agentA5" entity="connectionA5" class="edu.agents.ExplorerAgent" team="A"/>
+    <agent name="agentA6" entity="connectionA6" class="edu.agents.ExplorerAgent" team="A"/>
     <agent name="agentA7" entity="connectionA7" class="massim.javaagents.agents.SimpleRepairerAgent" team="A"/>
     <agent name="agentA8" entity="connectionA8" class="massim.javaagents.agents.SimpleRepairerAgent" team="A"/>
     <agent name="agentA9" entity="connectionA9" class="massim.javaagents.agents.SimpleRepairerAgent" team="A"/>
@@ -17,18 +17,18 @@
     <agent name="agentA14" entity="connectionA14" class="massim.javaagents.agents.SimpleSaboteurAgent" team="A"/>
     <agent name="agentA15" entity="connectionA15" class="massim.javaagents.agents.SimpleSaboteurAgent" team="A"/>
     <agent name="agentA16" entity="connectionA16" class="massim.javaagents.agents.SimpleSaboteurAgent" team="A"/>
-    <agent name="agentA17" entity="connectionA17" class="massim.javaagents.agents.SimpleSentinelAgent" team="A"/>
-    <agent name="agentA18" entity="connectionA18" class="massim.javaagents.agents.SimpleSentinelAgent" team="A"/>
-    <agent name="agentA19" entity="connectionA19" class="massim.javaagents.agents.SimpleSentinelAgent" team="A"/>
-    <agent name="agentA20" entity="connectionA20" class="massim.javaagents.agents.SimpleSentinelAgent" team="A"/>
-    <agent name="agentA21" entity="connectionA21" class="massim.javaagents.agents.SimpleSentinelAgent" team="A"/>
-    <agent name="agentA22" entity="connectionA22" class="massim.javaagents.agents.SimpleSentinelAgent" team="A"/>
-    <agent name="agentA23" entity="connectionA23" class="massim.javaagents.agents.SimpleInspectorAgent" team="A"/>
-    <agent name="agentA24" entity="connectionA24" class="massim.javaagents.agents.SimpleInspectorAgent" team="A"/>
-    <agent name="agentA25" entity="connectionA25" class="massim.javaagents.agents.SimpleInspectorAgent" team="A"/>
-    <agent name="agentA26" entity="connectionA26" class="massim.javaagents.agents.SimpleInspectorAgent" team="A"/>
-    <agent name="agentA27" entity="connectionA27" class="massim.javaagents.agents.SimpleInspectorAgent" team="A"/>
-    <agent name="agentA28" entity="connectionA28" class="massim.javaagents.agents.SimpleInspectorAgent" team="A"/>
+    <agent name="agentA17" entity="connectionA17" class="edu.agents.SentinelAgent" team="A"/>
+    <agent name="agentA18" entity="connectionA18" class="edu.agents.SentinelAgent" team="A"/>
+    <agent name="agentA19" entity="connectionA19" class="edu.agents.SentinelAgent" team="A"/>
+    <agent name="agentA20" entity="connectionA20" class="edu.agents.SentinelAgent" team="A"/>
+    <agent name="agentA21" entity="connectionA21" class="edu.agents.SentinelAgent" team="A"/>
+    <agent name="agentA22" entity="connectionA22" class="edu.agents.SentinelAgent" team="A"/>
+    <agent name="agentA23" entity="connectionA23" class="edu.agents.InspectorAgent" team="A"/>
+    <agent name="agentA24" entity="connectionA24" class="edu.agents.InspectorAgent" team="A"/>
+    <agent name="agentA25" entity="connectionA25" class="edu.agents.InspectorAgent" team="A"/>
+    <agent name="agentA26" entity="connectionA26" class="edu.agents.InspectorAgent" team="A"/>
+    <agent name="agentA27" entity="connectionA27" class="edu.agents.InspectorAgent" team="A"/>
+    <agent name="agentA28" entity="connectionA28" class="edu.agents.InspectorAgent" team="A"/>
     
     <agent name="agentB1" entity="connectionB1" class="massim.javaagents.agents.SimpleExplorerAgent" team="B"/>
     <agent name="agentB2" entity="connectionB2" class="massim.javaagents.agents.SimpleExplorerAgent" team="B"/>
