@@ -2,12 +2,22 @@
 <classpath>
 	<classpathentry kind="src" path="src"/>
 	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.6"/>
-	<classpathentry kind="lib" path="/Users/Edgar/Documents/edgar/Projects/AgentContest/javaagents/target/dependency/apltk-0.1.jar"/>
-	<classpathentry kind="lib" path="/Users/Edgar/Documents/edgar/Projects/AgentContest/javaagents/target/dependency/eis-0.3.jar"/>
-	<classpathentry kind="lib" path="/Users/Edgar/Documents/edgar/Projects/AgentContest/javaagents/target/dependency/eismassim-2.2.jar"/>
-	<classpathentry kind="lib" path="/Users/Edgar/Documents/edgar/Projects/AgentContest/javaagents/target/dependency/junit-4.8.2.jar"/>
-	<classpathentry kind="lib" path="/Users/Edgar/Documents/edgar/Projects/AgentContest/javaagents/target/javaagents-2.1-javadoc.jar"/>
-	<classpathentry kind="lib" path="/Users/Edgar/Documents/edgar/Projects/AgentContest/javaagents/target/javaagents-2.1-sources.jar"/>
-	<classpathentry kind="lib" path="/Users/Edgar/Documents/edgar/Projects/AgentContest/javaagents/target/javaagents-2.1.jar" sourcepath="/Users/Edgar/Documents/edgar/Projects/AgentContest/javaagents/target/javaagents-2.1-sources.jar"/>
+	<classpathentry kind="lib" path="massim-2014-2.0/javaagents/target/dependency/apltk-0.1.jar"/>
+	<classpathentry kind="lib" path="massim-2014-2.0/javaagents/target/dependency/eis-0.3.jar"/>
+	<classpathentry kind="lib" path="massim-2014-2.0/javaagents/target/dependency/eismassim-2.2.jar"/>
+	<classpathentry kind="lib" path="massim-2014-2.0/javaagents/target/dependency/junit-4.8.2.jar"/>
+	<classpathentry kind="lib" path="massim-2014-2.0/javaagents/target/javaagents-2.1-javadoc.jar"/>
+	<classpathentry kind="lib" path="massim-2014-2.0/javaagents/target/javaagents-2.1-sources.jar"/>
+	<classpathentry kind="lib" path="massim-2014-2.0/javaagents/target/javaagents-2.1.jar" sourcepath="massim-2014-2.0/javaagents/target/javaagents-2.1-sources.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="jar:platform:/resource/AgentContest/massim-2014-2.0/javaagents/target/javaagents-2.1-javadoc.jar!/"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="massim-2014-2.0/massim/target/agentcontest-2014-2.0-javadoc.jar"/>
+	<classpathentry kind="lib" path="massim-2014-2.0/massim/target/agentcontest-2014-2.0-sources.jar"/>
+	<classpathentry kind="lib" path="massim-2014-2.0/massim/target/agentcontest-2014-2.0.jar" sourcepath="massim-2014-2.0/massim/target/agentcontest-2014-2.0-sources.jar"/>
+	<classpathentry kind="lib" path="massim-2014-2.0/eismassim/target/eismassim-2.2-javadoc.jar"/>
+	<classpathentry kind="lib" path="massim-2014-2.0/eismassim/target/eismassim-2.2-sources.jar"/>
+	<classpathentry kind="lib" path="massim-2014-2.0/eismassim/target/eismassim-2.2.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>

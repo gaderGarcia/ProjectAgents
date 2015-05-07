@@ -1,0 +1,58 @@
+<!ENTITY teamAB SYSTEM "accounts-AB.xml">
+<!ENTITY teamA SYSTEM "accounts-A.xml">
+<!ENTITY teamB SYSTEM "accounts-B.xml">
+
+<!ENTITY simulation1 SYSTEM "sim1.xml">
+<!ENTITY simulation2 SYSTEM "sim2.xml">
+<!ENTITY simulation3 SYSTEM "sim3.xml">
+
+<!ENTITY actionclassmap SYSTEM "actionclassmap.xml">
+<!ENTITY sim-server SYSTEM "sim-server.xml">
+
+<!ENTITY actions SYSTEM "sim-actions.xml">
+<!ENTITY roles SYSTEM "sim-roles.xml">
+<!ENTITY achievements SYSTEM "sim-achievements.xml">
+<!ENTITY agents SYSTEM "sim-agents.xml">
+
+<!ATTLIST conf
+	backuppath CDATA "backup"
+	launch-sync-type CDATA "key"
+	reportpath CDATA "./backup/"
+	time CDATA "12:15"
+	time-to-launch CDATA "10000"
+	tournamentmode CDATA "2"
+	tournamentname CDATA "Mars2014"
+	debug-level CDATA "normal"
+>
+
+<!ATTLIST simulation
+	configurationclass CDATA "massim.competition2014.GraphSimulationConfiguration"
+	rmixmlobsserverhost CDATA "localhost"
+	rmixmlobsserverport CDATA "1099"
+	simulationclass CDATA "massim.competition2014.GraphSimulation"
+	xmlstatisticsobserver CDATA "massim.competition2014.GraphSimulationXMLStatisticsObserver"
+	visualisationobserver CDATA "massim.competition2014.GraphSimulationVisualizationObserver"
+	visualisationobserver-outputpath CDATA "./output"
+	rmixmlobserverweb CDATA "massim.competition2014.GraphSimulationRMIXMLDocumentObserverWebInterface"
+	xmlobserver CDATA "massim.competition2014.GraphSimulationXMLObserver"
+	xmlobserverpath CDATA "./xmls"
+
+	statisticsobserver CDATA "massim.competition2014.GraphSimulationStatisticsObserver"
+	statisticsobserverpath CDATA "./statistics"
+	rmixmlobserver CDATA "massim.competition2014.GraphSimulationRMIXMLDocumentObserver"
+>
+
+<!ATTLIST configuration
+	xmlns:meta CDATA "http://www.tu-clausthal.de/"
+	maxNumberOfSteps CDATA "750"
+	numberOfAgents CDATA "56"
+	numberOfTeams CDATA "2"
+	gridWidth CDATA "25"
+	gridHeight CDATA "25"
+	cellWidth CDATA "100"
+	minNodeWeight CDATA "1"
+	maxNodeWeight CDATA "10"
+	minEdgeCost CDATA "1"
+	maxEdgeCost CDATA "10"
+	mapGenerator CDATA "GraphGenerator2013"
+>

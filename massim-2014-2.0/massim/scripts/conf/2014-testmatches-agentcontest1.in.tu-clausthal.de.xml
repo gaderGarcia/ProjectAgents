@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE conf SYSTEM "helpers/2014/config.dtd">
+
+<conf>
+	&sim-server;
+	<match>
+		&simulation1;
+		&simulation2;
+
+	</match>
+	<manual-mode>
+		<match team1="TUB" team2="A"/>
+		<match team1="MAKo" team2="A"/>
+	</manual-mode>
+	<accounts>
+		&actionclassmap;
+
+	</accounts>
+</conf>
