@@ -7,16 +7,16 @@
     <agent name="agentA4" entity="connectionA4" class="edu.agents.ExplorerAgent" team="A"/>
     <agent name="agentA5" entity="connectionA5" class="edu.agents.ExplorerAgent" team="A"/>
     <agent name="agentA6" entity="connectionA6" class="edu.agents.ExplorerAgent" team="A"/>
-    <agent name="agentA7" entity="connectionA7" class="massim.javaagents.agents.SimpleRepairerAgent" team="A"/>
-    <agent name="agentA8" entity="connectionA8" class="massim.javaagents.agents.SimpleRepairerAgent" team="A"/>
-    <agent name="agentA9" entity="connectionA9" class="massim.javaagents.agents.SimpleRepairerAgent" team="A"/>
-    <agent name="agentA10" entity="connectionA10" class="massim.javaagents.agents.SimpleRepairerAgent" team="A"/>
-    <agent name="agentA11" entity="connectionA11" class="massim.javaagents.agents.SimpleRepairerAgent" team="A"/>
-    <agent name="agentA12" entity="connectionA12" class="massim.javaagents.agents.SimpleRepairerAgent" team="A"/>
-    <agent name="agentA13" entity="connectionA13" class="massim.javaagents.agents.SimpleSaboteurAgent" team="A"/>
-    <agent name="agentA14" entity="connectionA14" class="massim.javaagents.agents.SimpleSaboteurAgent" team="A"/>
-    <agent name="agentA15" entity="connectionA15" class="massim.javaagents.agents.SimpleSaboteurAgent" team="A"/>
-    <agent name="agentA16" entity="connectionA16" class="massim.javaagents.agents.SimpleSaboteurAgent" team="A"/>
+    <agent name="agentA7" entity="connectionA7" class="edu.agents.RepairerAgent" team="A"/>
+    <agent name="agentA8" entity="connectionA8" class="edu.agents.RepairerAgent" team="A"/>
+    <agent name="agentA9" entity="connectionA9" class="edu.agents.RepairerAgent" team="A"/>
+    <agent name="agentA10" entity="connectionA10" class="edu.agents.RepairerAgent" team="A"/>
+    <agent name="agentA11" entity="connectionA11" class="edu.agents.RepairerAgent" team="A"/>
+    <agent name="agentA12" entity="connectionA12" class="edu.agents.RepairerAgent" team="A"/>
+    <agent name="agentA13" entity="connectionA13" class="edu.agents.SaboteurAgent" team="A"/>
+    <agent name="agentA14" entity="connectionA14" class="edu.agents.SaboteurAgent" team="A"/>
+    <agent name="agentA15" entity="connectionA15" class="edu.agents.SaboteurAgent" team="A"/>
+    <agent name="agentA16" entity="connectionA16" class="edu.agents.SaboteurAgent" team="A"/>
     <agent name="agentA17" entity="connectionA17" class="edu.agents.SentinelAgent" team="A"/>
     <agent name="agentA18" entity="connectionA18" class="edu.agents.SentinelAgent" team="A"/>
     <agent name="agentA19" entity="connectionA19" class="edu.agents.SentinelAgent" team="A"/>
