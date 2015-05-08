@@ -73,9 +73,9 @@ public class SaboteurAgent extends Agent {
 			}
 			else if ( p.getName().equals("health")) {
 				Integer health = new Integer(p.getParameters().get(0).toString());
-				println("my health is " +health );
+				println("Mi nivel de cruda es: " +health );
 				if ( health.intValue() == 0 ) {
-					println("my health is zero. asking for help");
+					println("Estoy valiendo Mauser.. Ayuden cabrones");
 					broadcastBelief(new LogicBelief("iAmDisabled"));
 				}
 			}
@@ -95,7 +95,7 @@ public class SaboteurAgent extends Agent {
 				addBelief(new LogicBelief("maxEnergy",maxEnergy.toString()));
 			}
 			else if ( p.getName().equals("achievement") ) {
-				println("reached achievement " + p);
+				println("No que no cabrones.. ya chingamos" + p);
 			}
 		}
 		
@@ -119,14 +119,14 @@ public class SaboteurAgent extends Agent {
 		
 		beliefs =  getAllBeliefs("energy");
 		if ( beliefs.size() == 0 ) {
-				println("strangely I do not know my energy");
+				println("Semiase que ya ando pedo.. No se cuanta energia tengo");
 				return MarsUtil.skipAction();
 		}		
 		int energy = new Integer(beliefs.getFirst().getParameters().firstElement()).intValue();
 
 		beliefs =  getAllBeliefs("maxEnergy");
 		if ( beliefs.size() == 0 ) {
-				println("strangely I do not know my maxEnergy");
+				println("¿Cual es mi maximo poder??? ¿Que me hicieron putos?");
 				return MarsUtil.skipAction();
 		}		
 		int maxEnergy = new Integer(beliefs.getFirst().getParameters().firstElement()).intValue();
@@ -134,7 +134,7 @@ public class SaboteurAgent extends Agent {
 		// if has the goal of being recharged...
 		if ( goals.contains(new LogicGoal("beAtFullCharge")) ) {
 			if ( maxEnergy == energy ) {
-				println("I can stop recharging. I am at full charge");
+				println("Ya me avente un menudazo con un Clamato. Ahora si cabrones.. Agarrense..");
 				removeGoals("beAtFullCharge");
 			}
 			else {
@@ -145,7 +145,7 @@ public class SaboteurAgent extends Agent {
 		// go to recharge mode if necessary
 		else {
 			if ( energy < maxEnergy / 3 ) {
-				println("I need to recharge");
+				println("Me estan putiando.. Hagan paro.. ocupo relevo");
 				goals.add(new LogicGoal("beAtFullCharge"));
 				return MarsUtil.rechargeAction();
 			}
@@ -161,7 +161,7 @@ public class SaboteurAgent extends Agent {
 		LinkedList<LogicBelief> beliefs = null;
 		beliefs =  getAllBeliefs("position");
 		if ( beliefs.size() == 0 ) {
-				println("strangely I do not know my position");
+				println("Donde estoy??.. Me trajo el de la carretilla??");
 				return MarsUtil.skipAction();
 		}
 		String position = beliefs.getFirst().getParameters().firstElement();
@@ -178,7 +178,7 @@ public class SaboteurAgent extends Agent {
 			enemies.add(name);
 		}
 		if ( enemies.size() != 0 ) {
-			println("there are " + enemies.size() + " enemies at my current position");
+			println("Hay " + enemies.size() + " del otro bando donde estoy... No sean boleros putos!");
 			if ( Math.round(Math.random()) % 2 == 0) {
 				println("I will parry");
 				return MarsUtil.parryAction();
@@ -186,7 +186,7 @@ public class SaboteurAgent extends Agent {
 			else {
 				Collections.shuffle(enemies);
 				String enemy = enemies.firstElement();
-				println("I will attack " + enemy);
+				println("Agachate que te quedo Jabon.. Ahi te voy " + enemy);
 				return MarsUtil.attackAction(enemy);
 			}
 		}
@@ -209,10 +209,10 @@ public class SaboteurAgent extends Agent {
 			vertices.add(pos);
 		}
 		if ( vertices.size() != 0 ) {
-			println("there are " + vertices.size() + " adjacent vertices with enemies");
+			println("Cuidado.. Hay " + vertices.size() + " vertices adjacentes con varios putos.. Seguro ha de ser el Jorge");
 			Collections.shuffle(vertices);
 			String vertex = vertices.firstElement();
-			println("I will goto " + vertex);
+			println("Caele pal vertice " + vertex);
 			return MarsUtil.gotoAction(vertex);
 		}
 		
@@ -228,14 +228,14 @@ public class SaboteurAgent extends Agent {
 		}
 		
 		if ( neighbors.size() == 0 ) {
-			println("strangely I do not know any neighbors");
+			println("Yo solo se que no se nada.. Saluuuud");
 			return MarsUtil.skipAction();
 		}
 		
 		// goto neighbors
 		Collections.shuffle(neighbors);
 		String neighbor = neighbors.firstElement();
-		println("I will go to " + neighbor);
+		println("Vamos pal barrio " + neighbor);
 		return MarsUtil.gotoAction(neighbor);
 		
 	}
