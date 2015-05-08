@@ -112,18 +112,18 @@ public class ExplorerAgent extends Agent {
 			else if ( p.getName().equals("probedVertex") ) {
 				LogicBelief b = MarsUtil.perceptToBelief(p);
 				if ( containsBelief(b) == false ) {
-					println("I perceive the value of a vertex that I have not known before");
+					println("Percibo un vertice jugozo y sustancioso que no habia conocido antes.");
 					addBelief(b);
 					broadcastBelief(b);
 				}
 				else {
-					//println("I already knew " + b);
+					println("Ya lo habia visto " + b);
 				}
 			}
 			else if ( p.getName().equals("surveyedEdge") ) {
 				LogicBelief b = MarsUtil.perceptToBelief(p);
 				if ( containsBelief(b) == false ) {
-					println("I perceive the weight of an edge that I have not known before");
+					println("Percibo una arista que no habia conocido antes.");
 					addBelief(b);
 					broadcastBelief(b);
 				}
@@ -133,9 +133,9 @@ public class ExplorerAgent extends Agent {
 			}
 			else if ( p.getName().equals("health")) {
 				Integer health = new Integer(p.getParameters().get(0).toString());
-				println("my health is " +health );
+				println("My vida es de " +health );
 				if ( health.intValue() == 0 ) {
-					println("my health is zero. asking for help");
+					println("Auxilio ya no tengo vidas necesito ayuda!!!");
 					broadcastBelief(new LogicBelief("iAmDisabled"));
 				}
 			}
@@ -160,7 +160,7 @@ public class ExplorerAgent extends Agent {
 				addBelief(new LogicBelief("money",money.toString()));
 			}
 			else if ( p.getName().equals("achievement") ) {
-				println("reached achievement " + p);
+				println("Mision cumplida!! " + p);
 			}
 		}
 		
@@ -184,14 +184,14 @@ public class ExplorerAgent extends Agent {
 		
 		beliefs =  getAllBeliefs("energy");
 		if ( beliefs.size() == 0 ) {
-				println("strangely I do not know my energy");
+				println("Que raro no se cuantas vidas tengo");
 				return MarsUtil.skipAction();
 		}		
 		int energy = new Integer(beliefs.getFirst().getParameters().firstElement()).intValue();
 
 		beliefs =  getAllBeliefs("maxEnergy");
 		if ( beliefs.size() == 0 ) {
-				println("strangely I do not know my maxEnergy");
+				println("Que raro desconozco mi maxEnergy");
 				return MarsUtil.skipAction();
 		}		
 		int maxEnergy = new Integer(beliefs.getFirst().getParameters().firstElement()).intValue();
@@ -199,18 +199,18 @@ public class ExplorerAgent extends Agent {
 		// if has the goal of being recharged...
 		if ( goals.contains(new LogicGoal("beAtFullCharge")) ) {
 			if ( maxEnergy == energy ) {
-				println("I can stop recharging. I am at full charge");
+				println("Combustible lleno puedo dejar de recargar.");
 				removeGoals("beAtFullCharge");
 			}
 			else {
-				println("recharging...");
+				println("Cargando...");
 				return MarsUtil.rechargeAction();
 			}
 		}
 		// go to recharge mode if necessary
 		else {
 			if ( energy < maxEnergy / 3 ) {
-				println("I need to recharge");
+				println("Necesito combustible");
 				goals.add(new LogicGoal("beAtFullCharge"));
 				return MarsUtil.rechargeAction();
 			}
@@ -226,7 +226,7 @@ public class ExplorerAgent extends Agent {
 		
 		beliefs =  getAllBeliefs("position");
 		if ( beliefs.size() == 0 ) {
-				println("strangely I do not know my position");
+				println("Demonios no se cual es mi position");
 				return MarsUtil.skipAction();
 		}
 		String position = beliefs.getFirst().getParameters().firstElement();
@@ -241,11 +241,11 @@ public class ExplorerAgent extends Agent {
 			}
 		}
 		if ( probed == false ) {
-			println("I do not know the value of my position. I will probe.");
+			println("Desconozco el valor de mi position. Probaremos..");
 			return MarsUtil.probeAction();
 		}
 		else {
-			println("I know the value of my position");
+			println("Por fin se en que position estoy");
 		}
 		
 		beliefs = getAllBeliefs("neighbor");
@@ -265,14 +265,14 @@ public class ExplorerAgent extends Agent {
 				unprobed.add(name);
 		}
 		if ( unprobed.size() != 0 ) {
-			println("some of my neighbors are unprobed.");
+			println("No conozco a mis vecinos ya valio.");
 			Collections.shuffle(unprobed);
 			String neighbor = unprobed.firstElement();
-			println("I will go to " + neighbor);
+			println("Voy a visitar a " + neighbor);
 			return MarsUtil.gotoAction(neighbor);
 		}
 		else {
-			println("all of my neighbors are probed");
+			println("Todos los vecinos ya los conozco yeah!!");
 		}		
 	
 		return null;
@@ -341,7 +341,7 @@ public class ExplorerAgent extends Agent {
 		
 		LinkedList<LogicBelief> beliefs = this.getAllBeliefs("money");
 		if ( beliefs.size() == 0 ) {
-			println("strangely I do not know our money.");
+			println("Creo que soy rico y no se cuanto lana tengo");
 			return null;
 		}
 		
@@ -349,17 +349,17 @@ public class ExplorerAgent extends Agent {
 		int money = new Integer(moneyBelief.getParameters().get(0)).intValue();
 		
 		if ( money < 10 ) {
-			println("we do not have enough money.");
+			println("Somos pobres.");
 			return null;
 		}
-		println("we do have enough money.");
+		println("Tenemos billetes vamonos de party.");
 		
 		//double r = Math.random();
 		//if ( r < 1.0 ) {
 		//	println("I am not going to buy a battery");
 		//	return null;
 		//}
-		println("I am going to buy a battery");
+		println("Voy a comprar combustible e ire por cervezas");
 		
 		return MarsUtil.buyAction("battery");
 		
